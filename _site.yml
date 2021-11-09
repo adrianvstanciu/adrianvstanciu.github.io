@@ -1,11 +1,8 @@
 name: "adrianvstanciu.github.io"
 output_dir: "."
 navbar:
-  title: "Dr. Adrian Stanciu"
+  title: "Dr. Adrian Stanciu" #<!---this activates the index.html file--->
   left:
-    - text: "News"
-      icon: fa-bell-o
-      href: index.html
     - text: "Home"
       icon: fa-home
       href: home.html
@@ -26,7 +23,7 @@ navbar:
       href: about.html
 output:
   html_document:
-    theme: flatly
+    theme: yeti
     css: style.css
     includes:
       in_header: header.html

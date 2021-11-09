@@ -6,22 +6,22 @@ ___
 **Note**: This list contains only my (co-)taught classes. A full list, including my TA experience, is available in my CV.
 
 ___
-### **1. Open science practices for self promotion**
-
-- *Bio*: A gentle introduction into open science practicies and tools as well as as a brief overview of purpose and missing of the movement. 
-- *Type*: Online-seminar; As part of the Career Service Center.
-- *Period*: Planned for **07.11.2021**.
-- *Institution*: Jacobs University Bremen, Bremen, DE.
-- *Slides*: To be published at OSF after the seminar.
-
-___
-### **2. Introduction to R for quantitative social sciences**
+### **1. Introduction to R for quantitative social sciences**
 
 - *Bio*: Provides a first impression of how *R* can empower one's quantitative research.
 - *Type*: Online-workshop; As part of the GESIS training program.
 - *Period*: Planned for **02.02.2022 - 04.02.2022**.
 - *Institution*: GESIS Leibniz Institute for Social Sciences.
-- *Material*: Upon request after the workshop.
+- *Material*: Available after the workshop.
+
+___
+### **2. Open science practices for self promotion**
+
+- *Bio*: A gentle introduction into open science practicies and tools as well as as a brief overview of purpose and missing of the movement. 
+- *Type*: Online-seminar; As part of the Career Service Center.
+- *Period*: **07.11.2021**.
+- *Institution*: Jacobs University Bremen, Bremen, DE.
+- *Slides*: [here](https://osf.io/67tae/).
 
 ___
 ### **3. Vielfalt der Altersbildern und deren Auswirkung**

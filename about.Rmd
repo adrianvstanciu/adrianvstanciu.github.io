@@ -3,6 +3,7 @@ title: "About"
 ---
 ___
 
+
 <center>
 
 ![In front of Basilica of Venice, before the 2nd lockdown of 2020.](img/stanciu_foto.jpg){ title="In front of camera held by M.Bernardes"} 
@@ -15,7 +16,7 @@ ___
 
 I am a (cross-cultural) social psychologist interested in researching on values, stereotype accommodation as well as old age stereotypes and discrimination. More recently, I also research on methods-related issues. I hold degrees in Sociology, Social Sciences and Psychology from universities in Romania, the Netherlands and Germany respectively. 
 
-As of February 1st, I am a post-doctoral researcher (wissenschaftlicher Mitarbeiter) in Team Social Survey ([lead by Dr. Oshrat Hochman](https://www.researchgate.net/profile/Oshrat_Hochman)) at the department [Monitoring Society and Social Change](https://www.gesis.org/en/institute/departments/monitoring-society-and-social-change) at [GESIS-Leibniz Institute for the Social Sciences](https://www.gesis.org/en/home) in Mannheim.
+As of February 1st, I am a post-doctoral researcher (wissenschaftlicher Mitarbeiter) at the department Data and Research on Society ([lead by Dr. Oshrat Hochman](https://www.researchgate.net/profile/Oshrat_Hochman)) at the department [Monitoring Society and Social Change](https://www.gesis.org/en/institute/departments/monitoring-society-and-social-change) at [GESIS-Leibniz Institute for the Social Sciences](https://www.gesis.org/en/home) in Mannheim.
 
 In addition, I am a visiting scholar to prof. [Klaus Boehnke](https://www.jacobs-university.de/directory/kboehnke) at the department of Psychology and Methods, Jacobs University Bremen. 
 
@@ -33,7 +34,7 @@ Download a pdf copy of my vitae [here](pdf/cv_stanciu.pdf).
 ___
 #### Social media
 
-[![](img/gschol.png){ width=5% title="Google Scholar"}](https://scholar.google.de/citations?user=vy80cu8AAAAJ&hl=en)&nbsp; &nbsp; &nbsp; &nbsp; [![](img/orcid.png){ width=5% title="OrcId"}](https://orcid.org/0000-0001-8149-7829) &nbsp; &nbsp; &nbsp; &nbsp; [![](img/rgate.png){ width=5% title="Research Gate"}](https://www.researchgate.net/profile/Adrian-Stanciu)&nbsp; &nbsp; &nbsp; &nbsp;  [![](img/twitter.png){ width=5% title="Twitter"}](https://twitter.com/adrianvstanciu)&nbsp; &nbsp; &nbsp; &nbsp; [![](img/blogspt.png){ width=5% title="My photo website"}](http://adrianstanciuphoto.blogspot.com/)
+[![](img/gschol.png){ width=5% title="Google Scholar"}](https://scholar.google.de/citations?user=vy80cu8AAAAJ&hl=en)&nbsp; &nbsp; &nbsp; &nbsp;[![](img/orcid.png){ width=5% title="OrcId"}](https://orcid.org/0000-0001-8149-7829)&nbsp; &nbsp; &nbsp; &nbsp; [![](img/rgate.png){ width=5% title="Research Gate"}](https://www.researchgate.net/profile/Adrian-Stanciu)&nbsp; &nbsp; &nbsp; &nbsp;[![](img/twitter.png){ width=5% title="Twitter"}](https://twitter.com/adrianvstanciu)&nbsp; &nbsp; &nbsp; &nbsp;[![](img/blogspt.png){ width=5% title="My photo website"}](http://adrianstanciuphoto.blogspot.com/)
 
 ___
 #### Research interests
