@@ -23,7 +23,7 @@ navbar:
       href: about.html
 output:
   html_document:
-    theme: yeti
+    theme: flatly
     css: style.css
     includes:
       in_header: header.html
