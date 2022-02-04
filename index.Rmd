@@ -4,7 +4,11 @@ subtitle: Working visit from Dr. Frank Zenker
 ---
 ___
 
+<center>
+
 [![](img/zenker.jpg){ width=35% align="" title="Dr. Zenker"}](https://mtrboun.wordpress.com/)
+
+</center>
 
 Colleague Frank (Dr. Zenker) of the BOUN University Istanbul (Turkey) and Warsaw University (Poland) visits GESIS in Mannheim for further developing our collaborative projects on improving research practices in the social sciences. 
 
