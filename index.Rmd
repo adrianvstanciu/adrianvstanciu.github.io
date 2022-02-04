@@ -1,20 +1,20 @@
 ---
 title: "News"
-subtitle: Introductory workshop to *R* between 02.02.2022 - 04.02.2022
+subtitle: Working visit from Dr. Frank Zenker
 ---
 ___
 
-[![](img/intror.jpg){ width=70% align="" title="Intro to R"}](https://training.gesis.org/?site=pDetails&child=full&pID=0xAA72A87865CC455D928D910773D87AC5&lang=en_US)
+[![](img/zenker.jpg){ width=35% align="" title="Dr. Zenker"}](https://mtrboun.wordpress.com/)
 
-Dr. [Ranjit Singh](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/Ranjit.Singh) of GESIS-Institute for Social Sciences and I are holding an online introductory workshop to R for social scientists as part of the GESIS training program. 
+Colleague Frank (Dr. Zenker) of the BOUN University Istanbul (Turkey) and Warsaw University (Poland) visits GESIS in Mannheim for further developing our collaborative projects on improving research practices in the social sciences. 
 
-**The workshop takes place online between 02.02.2022 - 04.02.2022**.
+Dr. Zenker has published extensively on topics addressing the philosophy of science as well as on strategies towards developing a research programm approach in ensuring hightened replicability and validity of scientific progress. You can see a list of Dr. Zenker's publications on his Google Scholar profile [here](https://scholar.google.com/citations?user=YL_hINYAAAAJ).
 
-The course will cover everything from setting up R, loading data, preparing data, exploring data, performing basic analyses, and presenting your findings in automatically generated documents with text, tables, and graphics.
+Between **21.02.2022 - 25.02.2022** Frank and I will be working on reviewing the manuscript "The similarity index: A simple deductive measure to evaluate the empirical adequacy of a theoretical construct", currently published as a pre-preint at PsyArXiv (see [here](https://psyarxiv.com/gdmvx/)) and co-authored with [Dr. Erich H. Witte](https://www.psy.uni-hamburg.de/personen/prof-im-ruhestand/witte-erich.html). 
 
-The workshop addresses quantitative researchers who want to start with R, be that for greater efficiency, more open and reproducible research, or more powerful and complex analyses. We assume that participants have no or only passing experience with R.
+In addition, we will also work on developing a quantum-like approach in correcting for instrument and measurement errors in the social sciences. A shiny-app for the project is being periodically updated (work in progress), but it is already available online for those who want to get a glimpse of what we are working on (see [here](https://adrian-stanciu.shinyapps.io/quantapsych/)).   
 
-For additional information on the registration process and participation fee please see this [page](https://training.gesis.org/?site=pDetails&child=full&pID=0xAA72A87865CC455D928D910773D87AC5&lang=en_US) on the GESIS website. 
+
 
 ___
 

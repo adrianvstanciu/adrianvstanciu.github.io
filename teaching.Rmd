@@ -10,7 +10,7 @@ ___
 
 - *Bio*: Provides a first impression of how *R* can empower one's quantitative research.
 - *Type*: Online-workshop; As part of the GESIS training program.
-- *Period*: Planned for **02.02.2022 - 04.02.2022**.
+- *Period*: **02.02.2022 - 04.02.2022**.
 - *Institution*: GESIS Leibniz Institute for Social Sciences.
 - *Material*: Available after the workshop.
 
