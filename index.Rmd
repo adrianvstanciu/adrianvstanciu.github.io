@@ -1,24 +1,29 @@
 ---
 title: "News"
-subtitle: Working visit from Dr. Frank Zenker
+subtitle: "GESIS: Meet the experts presentation"
 ---
 ___
 
 <center>
 
-[![](img/zenker.jpg){ width=35% align="" title="Dr. Zenker"}](https://mtrboun.wordpress.com/)
+[![](https://www.gesis.org/fileadmin/upload/allgemein/Banner_Bilder/MTE_neu.jpg){ width=55% align="" title="Meet the experts"}](https://www.gesis.org/angebot/wissen-vermitteln/beratung-und-guidelines/meet-the-experts)
 
 </center>
 
-Colleague Frank (Dr. Zenker) of the BOUN University Istanbul (Turkey) and Warsaw University (Poland) visits GESIS in Mannheim for further developing our collaborative projects on improving research practices in the social sciences. 
+As part of the **Meet the experts** presentation series, I will give a talk in English for the general audience (science and policy sector) on the topic of value measurement.
 
-Dr. Zenker has published extensively on topics addressing the philosophy of science as well as on strategies towards developing a research programm approach in ensuring hightened replicability and validity of scientific progress. You can see a list of Dr. Zenker's publications on his Google Scholar profile [here](https://scholar.google.com/citations?user=YL_hINYAAAAJ).
+<center>
 
-Between **21.02.2022 - 25.02.2022** Frank and I will be working on reviewing the manuscript "The similarity index: A simple deductive measure to evaluate the empirical adequacy of a theoretical construct", currently published as a pre-preint at PsyArXiv (see [here](https://psyarxiv.com/gdmvx/)) and co-authored with [Dr. Erich H. Witte](https://www.psy.uni-hamburg.de/personen/prof-im-ruhestand/witte-erich.html). 
+**18.07.2022** Online via Zoom. Registration via Zoom [here](https://us02web.zoom.us/j/81682632493)
 
-In addition, we will also work on developing a quantum-like approach in correcting for instrument and measurement errors in the social sciences. A shiny-app for the project is being periodically updated (work in progress), but it is already available online for those who want to get a glimpse of what we are working on (see [here](https://adrian-stanciu.shinyapps.io/quantapsych/)).   
+</center>
 
 
+**Value Measurement in ALLBUS: between Innovation and Replication**
+
+Values are goals that motivate people’s action and thought. They are thus central to how humans interact with each other and cope with personal and societal challenges. Values can explain for instance, why certain people are motivated by success while others are motivated by a sense of otherness. The presentation introduces the concept of values and describes theories that inform their measurement in Germany.
+
+Using ALLBUS as an example, I present findings from existing data and discuss why it is a necessary exercise to periodically re-visit measurement, particularly in surveys that monitor societal aspects over a very long period. Oftentimes such surveys had their onset decades ago, when measurement of certain constructs such as values were in their incipient phases. The talk addresses the issue of finding a balance between measuring values in a valid and reliable manner over a very long period and maintaining continuity in observing them during said period as well as explaining their effects on personal and societal phenomena. I will present the efforts currently being made in the ALLBUS program towards resolving this challenge, namely a study that is set to equivalate older with newer value measurement.
 
 ___
 

@@ -6,16 +6,24 @@ ___
 **Note**: This list contains only my (co-)taught classes. A full list, including my TA experience, is available in my CV.
 
 ___
-### **1. Introduction to R for quantitative social sciences**
+### **1. Self-promotion: Understanding your persona**
+
+- *Bio*: An overview of basic psychological concepts on topics relevant for students looking for a job or next steps in their studies.
+- *Type*: Online-workshop; As part of the Career Service Center.
+- *Period*: **10.04.2022**
+- *Institution*: Jacobs University Bremen
+- *Slides*: TBA
+
+### **2. Introduction to R for quantitative social sciences**
 
 - *Bio*: Provides a first impression of how *R* can empower one's quantitative research.
 - *Type*: Online-workshop; As part of the GESIS training program.
 - *Period*: **02.02.2022 - 04.02.2022**.
 - *Institution*: GESIS Leibniz Institute for Social Sciences.
-- *Material*: Available after the workshop.
+- *Material*: TBA
 
 ___
-### **2. Open science practices for self promotion**
+### **3. Open science practices for self promotion**
 
 - *Bio*: A gentle introduction into open science practicies and tools as well as as a brief overview of purpose and missing of the movement. 
 - *Type*: Online-seminar; As part of the Career Service Center.
@@ -24,7 +32,7 @@ ___
 - *Slides*: [here](https://osf.io/67tae/).
 
 ___
-### **3. Vielfalt der Altersbildern und deren Auswirkung**
+### **4. Vielfalt der Altersbildern und deren Auswirkung**
 [*Diversity of old age images and outcomes*]
 
 - *Bio*: A brief intro into psychological theories of old age images as well as cross-cultural themes.
@@ -34,7 +42,7 @@ ___
 - *Slides*: [here](https://osf.io/vfmg7/).
 
 ___
-### **4. Heterogenität des Alterns aus psychologischer Perspektive**
+### **5. Heterogenität des Alterns aus psychologischer Perspektive**
 [*Heterogeneity of ageing from a psychological perspective*]
 
 - *Bio*:  A discussion on the diversity dimensions of ageing (eg, due to sexual orientation, gender, cultural background). Addresses central theories in developmental, social and cross-cultural psychology.
@@ -44,7 +52,7 @@ ___
 - *Syllabus*: [here](https://osf.io/ac67f/).
 
 ___
-### **5. Introduction to reading and understanding research articles in Psychology (and Social Sciences)**
+### **6. Introduction to reading and understanding research articles in Psychology (and Social Sciences)**
 
 - *Bio*: Discusses  the structure of articles. Provides an overview of the scientific jargon (eg, hypothesis testing, p value, t-test, etc).  
 - *Type*: Seminar.
@@ -53,7 +61,7 @@ ___
 - *Syllabus*: [here](https://osf.io/e783s/).
 
 ___
-### **6. Psychologische Forschung zu Altersbildern-Entstehung und Folgen**
+### **7. Psychologische Forschung zu Altersbildern-Entstehung und Folgen**
 [*Psychological research to old age images: Causes and outcomes*]
 
 - *Bio*: Discusses social, developmental, and cultural factors that contribute to the emergence of old age stereotype. Addresses the impact on well-being, health, and functionality.
@@ -63,7 +71,7 @@ ___
 - *Syllabus*: [here](https://osf.io/dzq52/).
 
 ___
-### **7. Current debates in group processes and intergroup relations**
+### **8. Current debates in group processes and intergroup relations**
 
 - *Bio*: Discusses key theories in social psychology and gives an introduction to appraoches to solving conflicts. 
 - *Type*: Course; Co-taught with Prof. Christopher J. Cohrs & Dr. Regina Arant (ne Kühl).
@@ -71,7 +79,7 @@ ___
 - *Institution*: Jacobs University Bremen, Bremen, DE.
 
 ___
-### **8. Dinamica unei cercetări: De la idee la text**
+### **9. Dinamica unei cercetări: De la idee la text**
 [*Dynamics of research: From an idea to a manuscript*]
 
 - *Bio*: A beginners-guide to the scientific process. Includes a discussion of what a hypothesis is and what is the typical structure of a manuscript.

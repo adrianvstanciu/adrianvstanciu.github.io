@@ -6,6 +6,12 @@ output: html_document
 
 ___
 ### {.tabset}
+#### **2022**
+
+1. Stanciu, A., Witte, EH., & Zenker, F. (2022). On theory construction in psychology: How to measure the empirical adequacy of a theoretical construct. Presentation at Conference of Experimental Psychologists, Cologne, Germany. 
+
+2. Zenker, F., Witte, EH, & Stanciu, A. (2022). Interpreting published effect sizes in behavioral science: On the role of the error-theory in evaluating the amount of effect. Presentation at Conference of Experimental Psychologists, Cologne, Germany. 
+
 #### **2021**
 
 1. Stanciu, A., Witte, EH., & Zenker, F. (2021). Meta-analysis 2.0: Parameter estimation by means of selective aggregation. Poster presentation at the 15th Conference of the Section "Methods and Evaluation" in the German Psychological Society (DGPs). [poster](https://osf.io/jgu67/)
