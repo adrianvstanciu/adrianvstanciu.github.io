@@ -6,7 +6,7 @@ ___
 
 <center>
 
-[![](https://www.gesis.org/fileadmin/upload/allgemein/Banner_Bilder/MTE_neu.jpg){ width=55% align="" title="Meet the experts"}](https://www.gesis.org/angebot/wissen-vermitteln/beratung-und-guidelines/meet-the-experts)
+[![](https://www.gesis.org/fileadmin/admin/Standard/Banner/MTE_neu.jpg){ width=55% align="" title="Meet the experts"}](https://www.gesis.org/angebot/wissen-vermitteln/beratung-und-guidelines/meet-the-experts)
 
 </center>
 
