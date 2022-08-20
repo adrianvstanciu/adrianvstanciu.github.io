@@ -6,6 +6,9 @@ output: html_document
 
 ___
 ### Peer-reviewed {.tabset}
+#### **2022**
+1. Cari, M.P., Ko, A., Kenrick, D., Wiezel, A., Wormley, A.S., Awad, E...**Stanciu, A**...Varnum, M.E.W. (2022). Fundamental social motives measured across forty-two cultures in two waves. Scientific Data, 9: 499. [open access](https://doi.org/10.1038/s41597-022-01579-w)
+
 #### **2021**
 1. Stanciu, A. (2021). Stereotype accommodation concerning older people. International Journal of Psychology. (online first). [open access](https://t.co/YVNfcrtLc4?amp=1)
 
