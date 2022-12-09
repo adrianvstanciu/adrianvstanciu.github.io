@@ -35,5 +35,6 @@ Finally, we looked at how perceptions in terms of sociability and competence wer
 The paper is open access and can be retrieved via this [link](https://doi.org/10.1038/s41598-022-25228-9). 
 
 In addition, we prepared an application that can be used to explore into greater details our findings. The app is accessible via [this link](https://jaherzig.shinyapps.io/COVID19-protagonists/).
+
 ___
 
