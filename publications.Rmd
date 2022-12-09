@@ -9,7 +9,7 @@ ___
 #### **2022**
 1. Witte, E.H., **Stanciu, A.**, & Zenker, F. (2022). Predicted as observed? How to identify empirically adequate theoretical constructs? Frontiers in Psychology: Theoretical and Philosophical Psychology, 13:980261. [open access](https://doi.org/10.3389/fpsyg.2022.980261)
 
-2. Friehs, M.-T., Kotzur, P.F., Kraus, C., Schemmerling, M., Herzig, J., **Stanciu, A**...Yzerbyt, V. (2022). Evidence from 35 countries that social perception of key protagonists was associated with people’s acceptance of containment measured during COVID-19 pandemic. Scientific Reports, 12, 21277. [open access](https://doi.org/10.1038/s41598-022-25228-9)
+2. Friehs, M.-T., Kotzur, P.F., Kraus, C., Schemmerling, M., Herzig, J., **Stanciu, A**...Yzerbyt, V. (2022). Evidence from 35 countries that social perception of key protagonists was associated with people’s acceptance of containment measures during COVID-19 pandemic. Scientific Reports, 12, 21277. [open access](https://doi.org/10.1038/s41598-022-25228-9)
 
 3. Pick, C. M., Ko, A., Wormley, A. S., Wiezel, A., Kenrick, D. T., Al-Shawaf, L.,...**Stanciu, A.**...Varnum, M. E. W. (2022). Family still matters: Human social motivation during a global pandemic. Evolution and Human Behavior, 43(6), 527-535. [open access](https://doi.org/10.1016/j.evolhumbehav.2022.09.003)
 
@@ -28,7 +28,7 @@ ___
 3. Ko, A., Pick, C.M., Kwon, J.Y., Barlev, M., Krems, J.A., Varnum, M.E.W…**Stanciu, A**...Kenrick, D.T. (2020). Family matters: Rethinking the Psychology of human social motivation. Perspectives on Psychological Science, 15, 173-201. [open access](https://doi.org/10.1177/1745691619872986)
 
 #### **2019**
-4. Stanciu, A., Vauclair, C.-M. & Rodda, N. (2019). Evidence for stereotype accommodation as an expression of immigrants socio-cognitive adaptation. International Journal of Intercultural Relations, 72, 76-86. [open access](pdf/stanciuetal2019.pdf)
+1. Stanciu, A., Vauclair, C.-M. & Rodda, N. (2019). Evidence for stereotype accommodation as an expression of immigrants socio-cognitive adaptation. International Journal of Intercultural Relations, 72, 76-86. [open access](pdf/stanciuetal2019.pdf)
 
 #### **2018**
 1. Stanciu, A. & Vauclair, C.-M. (2018). Stereotype accommodation: A socio-cognitive perspective on migrants’ cultural adaptation. Journal of Cross-Cultural Psychology, 49, 1027-1047. [open access](https://doi.org/10.1177%2F0022022118777300)
