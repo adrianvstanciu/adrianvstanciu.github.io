@@ -1,7 +1,11 @@
 ---
 title: "Home"
 subtitle: "Research. Positions. Opinions."
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
 ---
 
 ___
@@ -342,6 +346,40 @@ Our main argument is that the existing work has only considered ways in which mi
 
 ___
 ### Positions {.tabset}
+#### **Collaborator with ITLAS Group**
+*International multidisciplinary team working at the intersection of health and technology*
+
+[![](http://www.itlasgroup.com/img/logo_letras.png){ width=30% align="left" title="DGPs"}](http://www.itlasgroup.com/about.aspx)
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+[ITLAS Group](http://www.itlasgroup.com/about.aspx) is an international and multidisciplinary team of psychologists, software engineers and designers that works on creating and evaluating interventions to improve health by means of technology. ITLAS stands for Internet Treatments for Latin America and Spain, but has expanded since its foundation, and now has active collaborations and projects in other countries. 
+
+The team seeks to improve willingness to engage with such eHealth tools and publishes extensively findings in international journals. 
+
+One example of interventions created by the team is _duelocovid_, wich can be accessed [here](https://duelocovid.com/) (in Spanish only).
+
+<a href="#top"> Go to top </a>
+
+___
+#### **DGPs Membership**
+*As of 01.01.2023*
+
+[![](https://www.dgps.de/typo3conf/ext/customer_sitepackage/Resources/Public/Images/logo-dgps-horizontal.svg){ width=30% align="left" title="DGPs"}](https://www.dgps.de/)
+
+<br />
+<br />
+<br />
+
+The German Association for Psychology [DGPs](https://www.dgps.de/) provides a platform for German and Germany-affiliated researchers in all sub-disciplines of Psychology to share knowledge and develop together new projects. The association organizes multiple methodological and topic-related events, and is contributing with expertise to many other decision making processes regarding the discipline in the country. 
+
+<a href="#top"> Go to top </a>
+
+___
 #### **EASP Membership**
 *As of 01.07.2021*
 
