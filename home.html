@@ -13,7 +13,7 @@
 
 <title>Home</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -35,8 +35,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 <head>
   <title></title>
   <link rel="icon" type="image/png" href="img/favicon.png">
@@ -151,11 +151,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -184,8 +188,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -193,16 +197,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -419,13 +416,13 @@ terms of their sociability and competence traits. Findings are displayed
 in the figure below.</p>
 <p><br /></p>
 <center>
-<div class="figure">
+<div class="float">
 <img
 src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-022-25228-9/MediaObjects/41598_2022_25228_Fig1_HTML.png?as=webp"
-alt="" />
-<p class="caption">Figure 1. Perceptions of heads of state, health
+alt="Figure 1. Perceptions of heads of state, health physicians and the protest movement in terms of sociability and competence across 35 countries" />
+<div class="figcaption">Figure 1. Perceptions of heads of state, health
 physicians and the protest movement in terms of sociability and
-competence across 35 countries</p>
+competence across 35 countries</div>
 </div>
 </center>
 <p><br /></p>
@@ -514,10 +511,11 @@ stereotypical describtions which in turn expected to explain feelings of
 social exclusion as well as sociocultural adaptation.</p>
 <p><br /></p>
 <center>
-<div class="figure">
-<img src="img/fig1_stformation.png" title="Mediation model" alt="" />
-<p class="caption">Figure 1. Mediation model depicting the relation
-between studied variables.</p>
+<div class="float">
+<img src="img/fig1_stformation.png" title="Mediation model"
+alt="Figure 1. Mediation model depicting the relation between studied variables." />
+<div class="figcaption">Figure 1. Mediation model depicting the relation
+between studied variables.</div>
 </div>
 </center>
 <p><br /></p>
@@ -660,11 +658,12 @@ levels and (b) self-enhancement will impact indirectly and positively
 ageism levels.</p>
 <p><br /></p>
 <center>
-<div class="figure">
+<div class="float">
 <img src="img/agesociety_fig2.jpg"
-title="Results of level-1 mediation models" alt="" />
-<p class="caption">Figure 1. Direct effects at level-1 for blatant
-(above) and subtle (below) ageism.</p>
+title="Results of level-1 mediation models"
+alt="Figure 1. Direct effects at level-1 for blatant (above) and subtle (below) ageism." />
+<div class="figcaption">Figure 1. Direct effects at level-1 for blatant
+(above) and subtle (below) ageism.</div>
 </div>
 </center>
 <p><br /></p>
@@ -726,12 +725,13 @@ eleven value classes, 10 as theorized by Shalom Schwartz and 1 as
 non-classified.</p>
 <p><br /></p>
 <center>
-<div class="figure">
+<div class="float">
 <img
 src="https://www.frontiersin.org/files/Articles/463967/fpsyg-11-01723-HTML/image_m/fpsyg-11-01723-t001.jpg"
-style="width:100.0%" title="Unfolding of the value circumplex" alt="" />
-<p class="caption">Table 1. Ideal value types based on the rank order of
-individual values</p>
+style="width:100.0%" title="Unfolding of the value circumplex"
+alt="Table 1. Ideal value types based on the rank order of individual values" />
+<div class="figcaption">Table 1. Ideal value types based on the rank
+order of individual values</div>
 </div>
 </center>
 <p><br /></p>
@@ -744,12 +744,14 @@ profiles of individuals organize collectively at the cultural level
 (Figure 1).</p>
 <p><br /></p>
 <center>
-<div class="figure">
+<div class="float">
 <img
 src="https://www.frontiersin.org/files/Articles/463967/fpsyg-11-01723-HTML/image_m/fpsyg-11-01723-g003.jpg"
-style="width:70.0%" title="Culture-level value dimension" alt="" />
-<p class="caption">Figure 1. Depiction of culture-level value dimensions
-Alteration/Preservation (blue) and Amenability/Dominance (red).</p>
+style="width:70.0%" title="Culture-level value dimension"
+alt="Figure 1. Depiction of culture-level value dimensions Alteration/Preservation (blue) and Amenability/Dominance (red)." />
+<div class="figcaption">Figure 1. Depiction of culture-level value
+dimensions Alteration/Preservation (blue) and Amenability/Dominance
+(red).</div>
 </div>
 </center>
 <p><em>Note</em>. Numbers correspond to value rank order of importance.
@@ -766,13 +768,14 @@ challenges (education, religiosity, ethnic fractionalization, etc.)
 (Figure 2).</p>
 <p><br /></p>
 <center>
-<div class="figure">
+<div class="float">
 <img
 src="https://www.frontiersin.org/files/Articles/463967/fpsyg-11-01723-HTML/image_m/fpsyg-11-01723-g002.jpg"
-style="width:70.0%" title="Value environment in Europe" alt="" />
-<p class="caption">Figure 2. The Position of European Countries along
-Two Dimensions of Cultural Values as Informed by the Distribution
-Approach.</p>
+style="width:70.0%" title="Value environment in Europe"
+alt="Figure 2. The Position of European Countries along Two Dimensions of Cultural Values as Informed by the Distribution Approach." />
+<div class="figcaption">Figure 2. The Position of European Countries
+along Two Dimensions of Cultural Values as Informed by the Distribution
+Approach.</div>
 </div>
 </center>
 <p><em>Note</em>. Alteration/Preservation value rank order: (+)
@@ -894,14 +897,15 @@ theoretical framework of the effects due to cross-cultural differences,
 contextual factors, opportunities, as well as individual trait
 characteristics. See Figure 1.</p>
 <center>
-<div class="figure">
+<div class="float">
 <img src="img/fig1stanciuvauclair18.png" style="width:75.0%"
-title="Theoretical framework" alt="" />
-<p class="caption">Figure 1. A framework of the cross-cultural
+title="Theoretical framework"
+alt="Figure 1. A framework of the cross-cultural differences, learning opportunities, individual differences, and cognitive resources in the study of how disconfirming/novel stereotype-relevant information is incorporated toward stereotype accommodation." />
+<div class="figcaption">Figure 1. A framework of the cross-cultural
 differences, learning opportunities, individual differences, and
 cognitive resources in the study of how disconfirming/novel
 stereotype-relevant information is incorporated toward stereotype
-accommodation.</p>
+accommodation.</div>
 </div>
 </center>
 <p>Note. “P” stands for Proposition and it refers to in-text

@@ -1,40 +1,13 @@
 ---
 title: "News"
-subtitle: "New paper at Scientific Reports, a Nature publication"
+subtitle: "Professorship (Assistant)"
 ---
 ___
 
-*Social Perception in Times of COVID-19 Pandemic and its Behavioral Outcomes*
+Starting September 1st, 2023 I join the Department of Cognitive Behavioral Sciences at the University of Luxembourg in my new role as _Assistant Professor in Lifespan Developmental Psychology (tenure track)_. 
 
-[![](https://media.springernature.com/full/nature-cms/uploads/product/srep/header-d3c533c187c710c1bedbd8e293815d5f.svg){ width=20% align="left" title="Social perception in times of COVID-19 pandemic"}](https://doi.org/10.1038/s41598-022-25228-9)
+More on this at a later moment. 
 
-<br />
-<br />
-<br />
-
-> Why did some people support the pandemic-related measures across countries, while others did not?
-
-We asked this question with the intention of identifying universal patterns into how social perception of varying people and groups affected people's decision to adhere to containment measures and get themselves vaccinated.
-
-In a first step we identified what we call a set of key protagonists that were relevant in each of the participating countries. Key protagonists is a general term that refers to specific individuals, or groups of people, or movements, or institutions. Our findings show that heads of state, health physicians, and the protest movement were universally meaningful protagonists across 35 countries.
-
-Then we wanted to know how people evaluated these protagonists in terms of their sociability and competence traits. Findings are displayed in the figure below. 
-
-<br />
-
-<center>
-
-![Figure 1. Perceptions of heads of state, health physicians and the protest movement in terms of sociability and competence across 35 countries](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-022-25228-9/MediaObjects/41598_2022_25228_Fig1_HTML.png?as=webp)
-
-</center>
-
-<br />
-
-Finally, we looked at how perceptions in terms of sociability and competence were associated with adherence to virus containment measures and willingness to get vaccinated. We are the first to show that high sociability and competence evaluations of protagonists advocating for protective measures (head of state, physicians) were associated with support for health preventative behaviors, such as washing hands, social distancing, and getting vaccinated. High sociability and competence evaluations of protagonists opposed to protective measures (e.g., protest movements) were associated with opposition to the same. 
-
-The paper is open access and can be retrieved via this [link](https://doi.org/10.1038/s41598-022-25228-9). 
-
-In addition, we prepared an application that can be used to explore into greater details our findings. The app is accessible via [this link](https://jaherzig.shinyapps.io/COVID19-protagonists/).
 
 ___
 

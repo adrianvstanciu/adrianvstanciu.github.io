@@ -13,7 +13,7 @@
 
 <title>Website for complete beginners</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -35,8 +35,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 <head>
   <title></title>
   <link rel="icon" type="image/png" href="img/favicon.png">
@@ -151,11 +151,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -184,8 +188,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -193,16 +197,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -479,11 +476,12 @@ will do the rest.</p>
 like, just to see how it looks. Otherwise, have a peep below. That is
 where you type in your <code>magic R code</code>!</p>
 <center>
-<div class="figure">
+<div class="float">
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/0/01/R_terminal.jpg"
-alt="" />
-<p class="caption">What <code>R</code> opens at the first click.</p>
+alt="What R opens at the first click." />
+<div class="figcaption">What <code>R</code> opens at the first
+click.</div>
 </div>
 </center>
 <p><sup>1</sup> Not that it is of utmost relevance for us now, but
@@ -522,11 +520,11 @@ than enough.</p>
 you will see that the <code>R console</code> you’ve seen above is
 already integrated.</p>
 <center>
-<div class="figure">
+<div class="float">
 <img
 src="https://galaxyproject.github.io/training-material/topics/galaxy-interface/images/rstudio/rstudio_session_4pane_layout.png"
-alt="" />
-<p class="caption">Panels of <code>RStudio</code>.</p>
+alt="Panels of RStudio." />
+<div class="figcaption">Panels of <code>RStudio</code>.</div>
 </div>
 </center>
 <p>In the picture above you can see the four panels of
@@ -638,13 +636,14 @@ spoiler: I still don’t get this terminology myself, but it didn’t stop
 me from having my very own <a href="https://adrianstanciu.eu"
 class="uri">https://adrianstanciu.eu</a>).</p>
 <center>
-<div class="figure">
+<div class="float">
 <img
 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.marketingprofs.com%2Fassets%2Fimages%2Fdaily-chirp%2F170329-infographic-domain-name-system-simple-terms-truncated.jpg&amp;f=1&amp;nofb=1"
 style="width:100.0%;height:100.0%" title="DNS system info graphic."
-alt="" />
-<p class="caption"><code>DNS</code>: The kind of info I <em>might</em>
-have studied in primary school and forgot the day after.</p>
+alt="DNS: The kind of info I might have studied in primary school and forgot the day after." />
+<div class="figcaption"><code>DNS</code>: The kind of info I
+<em>might</em> have studied in primary school and forgot the day
+after.</div>
 </div>
 </center>
 <p>You can go ahead and have your website without a
@@ -703,9 +702,11 @@ computer. To check that, open <code>Terminal</code>
 (obvio, press <code>Enter</code> afterwards):</p>
 <pre><code>git --version</code></pre>
 <center>
-<div class="figure">
-<img src="img/gitcodeterm.png" alt="" />
-<p class="caption"><code>Terminal</code> with git version 2.29.2.</p>
+<div class="float">
+<img src="img/gitcodeterm.png"
+alt="Terminal with git version 2.29.2." />
+<div class="figcaption"><code>Terminal</code> with git version
+2.29.2.</div>
 </div>
 </center>
 <p>If your terminal looks similar to the one above, then you already
@@ -766,9 +767,10 @@ or type in the following:</p>
 <pre><code>pbcopy &lt; ~/.ssh/id_rsa.pub !this copies your key (much like copy/paste)</code></pre>
 <p>Go to your GitHub online account, sign in and…</p>
 <center>
-<div class="figure">
-<img src="gif/sshkey.gif" style="width:150.0%" alt="" />
-<p class="caption">Add your SSH key.</p>
+<div class="float">
+<img src="gif/sshkey.gif" style="width:150.0%"
+alt="Add your SSH key." />
+<div class="figcaption">Add your SSH key.</div>
 </div>
 </center>
 <p>The final step is to double-check that the authentication was
@@ -804,9 +806,10 @@ here.</p>
 <li>Create your <code>repository</code> at GitHub.</li>
 </ol>
 <center>
-<div class="figure">
-<img src="gif/creategithubrepos.gif" style="width:150.0%" alt="" />
-<p class="caption">Your repository on GitHub.</p>
+<div class="float">
+<img src="gif/creategithubrepos.gif" style="width:150.0%"
+alt="Your repository on GitHub." />
+<div class="figcaption">Your repository on GitHub.</div>
 </div>
 </center>
 <ol start="2" style="list-style-type: lower-alpha">
@@ -844,9 +847,10 @@ GitHub online account, and enter (by clicking on it) your repository
 that you’ve created earlier.</li>
 </ul>
 <center>
-<div class="figure">
-<img src="gif/yourgithublink.gif" style="width:150.0%" alt="" />
-<p class="caption">Where is your personal link on GitHub.</p>
+<div class="float">
+<img src="gif/yourgithublink.gif" style="width:150.0%"
+alt="Where is your personal link on GitHub." />
+<div class="figcaption">Where is your personal link on GitHub.</div>
 </div>
 </center>
 <ol start="3" style="list-style-type: lower-alpha">
@@ -939,9 +943,11 @@ or <code>Windows explores</code>. Think of this as a short cut to your
 <code>RStudio</code> where you work on your website.</p>
 <p>To create your <code>Rproject</code>, follow these steps.</p>
 <center>
-<div class="figure">
-<img src="gif/associaterproj.gif" style="width:150.0%" alt="" />
-<p class="caption">Associate an Rproject with your repository.</p>
+<div class="float">
+<img src="gif/associaterproj.gif" style="width:150.0%"
+alt="Associate an Rproject with your repository." />
+<div class="figcaption">Associate an Rproject with your
+repository.</div>
 </div>
 </center>
 <p>This will create a file <code>.Rproj</code> inside your working
@@ -989,9 +995,10 @@ paste it into your <code>_site.yml</code> text above. Be careful to
 select an icon that is <strong>free</strong>, otherwise nothing will be
 shown on your website!</p>
 <center>
-<div class="figure">
-<img src="gif/faicons.gif" style="width:150.0%" alt="" />
-<p class="caption">Find your icons.</p>
+<div class="float">
+<img src="gif/faicons.gif" style="width:150.0%"
+alt="Find your icons." />
+<div class="figcaption">Find your icons.</div>
 </div>
 </center>
 <p>You can go ahead and save the edit for now. Later on, you can use the
@@ -1046,11 +1053,11 @@ with some <code>$%$@^^^@@</code> symbols. If the last thing you read is
 website!</li>
 </ol>
 <center>
-<div class="figure">
+<div class="float">
 <img
 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.sIIsn75xMBWHo77T6imk1AHaDa%26pid%3DApi&amp;f=1"
-alt="" />
-<p class="caption">Congrats!</p>
+alt="Congrats!" />
+<div class="figcaption">Congrats!</div>
 </div>
 </center>
 <ol start="2" style="list-style-type: decimal">
@@ -1103,9 +1110,10 @@ Pane</em>.</p>
 you can <code>knit</code> it and see the way it looks next to the
 <code>source</code> panel. Have fun!</p>
 <center>
-<div class="figure">
-<img src="gif/knitprev.gif" style="width:150.0%" alt="" />
-<p class="caption">Kniting is amazing!</p>
+<div class="float">
+<img src="gif/knitprev.gif" style="width:150.0%"
+alt="Kniting is amazing!" />
+<div class="figcaption">Kniting is amazing!</div>
 </div>
 </center>
 <p><a href="#top"> Go to top </a></p>
@@ -1142,9 +1150,10 @@ GitHub as an update (see below). Press <code>Enter</code>.</li>
 </ol>
 <pre><code>git commit -m &quot;This is the first website I made.&quot; ## see in red below</code></pre>
 <center>
-<div class="figure">
-<img src="img/commit.png" style="width:150.0%" alt="" />
-<p class="caption">My current <em>commit</em>.</p>
+<div class="float">
+<img src="img/commit.png" style="width:150.0%"
+alt="My current commit." />
+<div class="figcaption">My current <em>commit</em>.</div>
 </div>
 </center>
 <ol start="3" style="list-style-type: lower-alpha">
@@ -1210,9 +1219,10 @@ see next is something like this, only that those values circled in red
 yet.</p></li>
 </ol>
 <center>
-<div class="figure">
-<img src="img/customdns1.png" style="width:200.0%" alt="" />
-<p class="caption">Manage your DNZ specs.</p>
+<div class="float">
+<img src="img/customdns1.png" style="width:200.0%"
+alt="Manage your DNZ specs." />
+<div class="figcaption">Manage your DNZ specs.</div>
 </div>
 </center>
 <ol start="3" style="list-style-type: decimal">

@@ -13,7 +13,7 @@
 
 <title>News</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 <head>
   <title></title>
   <link rel="icon" type="image/png" href="img/favicon.png">
@@ -148,11 +148,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -181,8 +185,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -190,16 +194,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -307,64 +304,17 @@ $(document).ready(function () {
 
 
 <h1 class="title toc-ignore">News</h1>
-<h3 class="subtitle">New paper at Scientific Reports, a Nature
-publication</h3>
+<h3 class="subtitle">Professorship (Assistant)</h3>
 
 </div>
 
 
 <hr />
-<p><em>Social Perception in Times of COVID-19 Pandemic and its
-Behavioral Outcomes</em></p>
-<p><a href="https://doi.org/10.1038/s41598-022-25228-9"><img
-src="https://media.springernature.com/full/nature-cms/uploads/product/srep/header-d3c533c187c710c1bedbd8e293815d5f.svg"
-style="width:20.0%" align="left"
-title="Social perception in times of COVID-19 pandemic" /></a></p>
-<p><br /> <br /> <br /></p>
-<blockquote>
-<p>Why did some people support the pandemic-related measures across
-countries, while others did not?</p>
-</blockquote>
-<p>We asked this question with the intention of identifying universal
-patterns into how social perception of varying people and groups
-affected people’s decision to adhere to containment measures and get
-themselves vaccinated.</p>
-<p>In a first step we identified what we call a set of key protagonists
-that were relevant in each of the participating countries. Key
-protagonists is a general term that refers to specific individuals, or
-groups of people, or movements, or institutions. Our findings show that
-heads of state, health physicians, and the protest movement were
-universally meaningful protagonists across 35 countries.</p>
-<p>Then we wanted to know how people evaluated these protagonists in
-terms of their sociability and competence traits. Findings are displayed
-in the figure below.</p>
-<p><br /></p>
-<center>
-<div class="figure">
-<img
-src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-022-25228-9/MediaObjects/41598_2022_25228_Fig1_HTML.png?as=webp"
-alt="" />
-<p class="caption">Figure 1. Perceptions of heads of state, health
-physicians and the protest movement in terms of sociability and
-competence across 35 countries</p>
-</div>
-</center>
-<p><br /></p>
-<p>Finally, we looked at how perceptions in terms of sociability and
-competence were associated with adherence to virus containment measures
-and willingness to get vaccinated. We are the first to show that high
-sociability and competence evaluations of protagonists advocating for
-protective measures (head of state, physicians) were associated with
-support for health preventative behaviors, such as washing hands, social
-distancing, and getting vaccinated. High sociability and competence
-evaluations of protagonists opposed to protective measures (e.g.,
-protest movements) were associated with opposition to the same.</p>
-<p>The paper is open access and can be retrieved via this <a
-href="https://doi.org/10.1038/s41598-022-25228-9">link</a>.</p>
-<p>In addition, we prepared an application that can be used to explore
-into greater details our findings. The app is accessible via <a
-href="https://jaherzig.shinyapps.io/COVID19-protagonists/">this
-link</a>.</p>
+<p>Starting September 1st, 2023 I join the Department of Cognitive
+Behavioral Sciences at the University of Luxembourg in my new role as
+<em>Assistant Professor in Lifespan Developmental Psychology (tenure
+track)</em>.</p>
+<p>More on this at a later moment.</p>
 <hr />
 
 
