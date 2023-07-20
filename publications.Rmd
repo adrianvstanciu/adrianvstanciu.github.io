@@ -6,6 +6,15 @@ output: html_document
 
 ___
 ### Peer-reviewed {.tabset}
+#### **2023**
+1. Smallenbroek, O., **Stanciu, A.**, Arant, R., & Boehnke, K. (forthcoming). Are values stable throughout adulthood? Evidence from two german long-term panel studies. PlosONE.
+
+2. Jovanovic, V., Rudnev, M., Abdelrahman, M., Kadir, N.B.A., Adebayo, D.F., Akaliyski, P....**Stanciu, A.,**...Yu, Y.Y. (forthcoming). The coronavirus anxiety scale: Cross-national measurement invariance and convergent validity evidence. Psychological Assessment.
+
+3. Karakulak, A., Tepe, B. Dimitrova, R., Abdelrahman, M., Akaliyski, P., Alaseel, R.R...**Stanciu, A.,**...Zanoni da Silva, M. (forthcoming). Empathy, fear of disease and support for COVID-19 containment behaviors: Evidence from 34 counties on the moderating role of governmental trust. Communications Psychology. [preprint available](https://www.researchsquare.com/article/rs-2412449/v1)
+
+4. Zhang, X., English, A.S., Li, X., Yang, Y., **Stanciu, A.,** & Shuang, W. (2023). International students' collective resilience in crisis: Sense of community predicts less anxiety via social contact and social support during lockdown. Heliyon, 9(4), 1-10. [open access](https://doi.org/10.1016/j.heliyon.2023.e15298).
+
 #### **2022**
 1. Witte, E.H., **Stanciu, A.**, & Zenker, F. (2022). Predicted as observed? How to identify empirically adequate theoretical constructs? Frontiers in Psychology: Theoretical and Philosophical Psychology, 13:980261. [open access](https://doi.org/10.3389/fpsyg.2022.980261)
 
@@ -45,11 +54,17 @@ ___
 
 ___
 ### Pre-prints {.tabset}
+#### **2023**
+
+1. Stanciu,  A., Bernardes, M., Partsch, M.V., & Lechner, M. (2023, June 25). Basic human values and the adoption of cryptocurrency. PsyArxiv. [preprint available](https://psyarxiv.com/hxutm/)
+
+2. Witte,  E.H. & Stanciu, A. (2023, June 6).  Error theory of mental test scores without and with  a measuring  instrument. OSF Preprints. [preprint available](https://doi.org/10.31219/osf.io/9ap6m)
+
 #### **2020**
 
-1. Witte, E.H., **Stanciu, A.**, & Zenker, F. (2020). A simple measure for the predictive accuracy of an empirical construct. PsyArXiv. [open access](https://doi.org/10.31234/osf.io/gdmvx)
+1. Witte, E.H., **Stanciu, A.**, & Zenker, F. (2020). A simple measure for the predictive accuracy of an empirical construct. PsyArXiv. [preprint available](https://doi.org/10.31234/osf.io/gdmvx)
 
-2. Stanciu, A. (2020). Stereotype accommodation concerning older people. PsyArXiv. [open access](https://doi.org/10.31234/osf.io/635qn). <*Now published as [Stanciu (2021)](https://t.co/YVNfcrtLc4?amp=1) @ IJoP.*>
+2. Stanciu, A. (2020). Stereotype accommodation concerning older people. PsyArXiv. [preprint available](https://doi.org/10.31234/osf.io/635qn). <*Now published as [Stanciu (2021)](https://t.co/YVNfcrtLc4?amp=1) @ IJoP.*>
 
 ___
 ### Books & Chapters {.tabset}
@@ -66,24 +81,5 @@ ___
 
 #### **2017**
 1. Stanciu, A. (2017). On the cognitive adaptation of migrants: Changes in migrants’ personal stereotypes while acculturating to their host countries. Doctoral dissertation at the Bremen International Graduate School of Social Sciences. [*email me and I will provide you with a copy*].
-
-___
-### In preparation {.tabset}
-#### **Stereotypes**
-1. Kotzur, P.F.^1^, **Stanciu, A.^1^**, Friehs, M-T., Farcas, D., Kislioglu, R., Koc, Y….Van Zalk, M. (2020). Back to basics: The measurement structure and comparability of stereotype dimensions across social groups, cultural contexts, and time. (^1^shared authorship; preregistred; partially written)
-
-#### **Values**
-1. Stanciu, A. & Smallenbroek, O. (2021). Value development studied in a longitudinal representative sample from the Netherlands. [*working title*]  
-
-2. Smallenbroek, O.^1^, **Stanciu, A.^1^**, Arant, R. & Boehnke, K. (2020). Are values really stable throughout adulthood? Evidence from two German panel studies. (^1^shared authorship; partially written)
-
-3. Pick, M.C., Ko, A., Kenrick, D.T., Awad, E., Barry, O., Boonyasiriwat, W…, **Stanciu, A**…Varnum, M.E.W. (2021). Fundamental social motives: A new way to think about culture. (revisions)
-
-#### **Methodological**
-1. Witte, E.H., **Stanciu, A.**, & Zenker, F. (2020b). What is a good empirical theory in Psychology and how to measure it? (partially written)
-
-2. Witte, E.H., **Stanciu, A.**, & Zenker, F. (2021). Quantum social sciences: Dealing with instrument biases, measurement erros, and cognitive limitations when working with quantitative data. (Simulations ready) 
-
-3. Witte, E.H., **Stanciu, A.**, Zenker, F., & Lakens, D. (2021). Meta-analysis 2.0: Standard deviations are more informative of the state of a research field than previously thought. [*working title*]
 
 ____
