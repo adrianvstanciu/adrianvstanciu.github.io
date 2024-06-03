@@ -1,0 +1,43 @@
+---
+title: "Research"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+---
+
+
+## Ageing migrants
+
+Currently, I work on integrating the ageing and migration literature for a longitudinal and comparative study of the life experience and healthcare needs of populations of ageing migrants. 
+
+Together with colleagues from the University of Twente (the Netherlands), I aim to uncover multidimensional determinants to adoption, use, and effectiveness of digital tools for healthy ageing in migrant populations. Registration and study protocol will soon be available online.
+
+Together with a dedicated interdisciplinary team at the University of Luxembourg and Luxembourg Health Institute, I set to establish a panel data infrastructure targeting ageing migrants in Luxembourg. We are now working on acquiring third-party funding for the project.
+
+This line of work draws primarily on my background in acculturation and ageing research (e.g., open access [Stanciu, 2021](https://onlinelibrary.wiley.com/doi/10.1002/ijop.12800), open access [Stanciu, 2022](https://www.cambridge.org/core/journals/ageing-and-society/article/value-systems-as-motivational-forces-for-the-suppression-of-ageism-towards-older-people-amongst-young-adults-an-analysis-across-countries/9E95A4A55910315CFDE47D486F23E8CD#)) and my expertise in managing and conducting large scale surveys (in print book [Hochman, Stanciu, & Hadjar, 2024 (Eds.)](https://link.springer.com/book/9783658444617)).
+
+## Values
+
+Of primary interest is the question whether values develop throughout the lifespan. Together with an international team, of which [Dr. Oscar Smallenbroek](https://0-scholar-google-com.brum.beds.ac.uk/citations?user=jTdQMi0AAAAJ&hl=en) has the central role, I use country representative longitudinal data to examine socio-economic determinants to value development in adulthood. 
+
+Our work has been published (see Smallenbroek, **Stanciu**, Arant, & Boehnke, 2023; [open access](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289487) at PloS ONE) and is under-review at internationally renowned outlets.
+
+Subsequently, we are aiming to promote the longitudinal examination of value development through adequate theory-driven reinterpretation of secondary data (see [preprint](https://osf.io/preprints/osf/3pqhs): Smallenbroek, Leijen, **Stanciu**, van Herk, & Bardi, 2024)
+
+## Health
+
+I partnered with the ITLAS Group for E-mental health, lead by [Asst. Prof. Alejandro Domínguez-Rodríguez](https://people.utwente.nl/a.dominguezrodriguez), to examine socio-cultural determinants to mental health in Latin America. We analyse and report data collected through online intervention platforms that the ITLAS group develops (e.g., [DueloCovid](https://www.duelocovid.com/)).
+
+Further collaborations on topics of health are in development.
+
+## Other
+
+In addition to these current and main lines of work, I also research on adoption of cryptocurrency (see e.g. [Stanciu et al. 2023](https://osf.io/preprints/psyarxiv/hxutm)) and explore new methodological avenues (see e.g. [Witte, **Stanciu**, & Zenker, 2022](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.980261/full)).
+
+Moreover, a dear project to me is to promote the use of _R_ beyond data analysis in the community of researchers in Psychology and Social Sciences. I am working on a primer paper on using shiny-apps in enhancing resarch communication.
+
+___
+
+<a href="#top"> Go to top </a>
