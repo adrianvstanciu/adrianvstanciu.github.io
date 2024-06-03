@@ -1,56 +1,7 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Github\n  \n  \n    \n     Scholar\n  \n  \n    \n     Research Gate\n  \n\n  \n  \n\n\nAgeing, culture, and digital technology. Particular focus on ageing migrants.\n\n\n\nMember in the ALLBUS team (German General Social Survey) at GESIS - Leibniz Institute for the Social Sciences in Mannheim, Germany. Here, I acquired invaluable expertise into managing large scale surveys in addition to developing an interest in programming for the social sciences using R. My direct supervisor was Oshrat Hochman, PhD.\nAt the University of Vechta in Germany, I developed my research agenda on migration and ageing. Prof. Dr. Maria Pavlova was my direct employer.\nMy PhD studies were at Bremen International School of Social Sciences (BIGSSS). The doctoral title was conferred by University of Bremen and Jacobs University Bremen (now Constructor University Bremen).\nI studied Sociology at the Bachelor level in Bucharest, Romania. I hold a Master’s degree in Social Psychology from University of Groningen, the Netherlands.\nI speak Romanian, English and German fluently. I currently learn French and Brazilian Portuguese.\nI practice Brazilian Jiu-Jitsu since 2021.\nI am a stroke survivor.\n\n\n\nEmail: adrian.stanciu[at]uni.lu\nNote: I will not consider nor respond to unsolicited work inquiries, traineeship and any form of collaboration that involves financial efforts on my part or the institution I represent. For all such collaborations, only applications and requests via the official channels will be considered."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "News",
-    "section": "",
-    "text": "Senior lecturer in health, Dr. Ágnes (Ági) Szabó (Victoria University of Wellington, New Zealand) will give a public presentation at University of Luxembourg addressing the interplay between ageing and acculturation research."
-  },
-  {
-    "objectID": "about.html#bio",
-    "href": "about.html#bio",
-    "title": "About",
-    "section": "",
-    "text": "Member in the ALLBUS team (German General Social Survey) at GESIS - Leibniz Institute for the Social Sciences in Mannheim, Germany. Here, I acquired invaluable expertise into managing large scale surveys in addition to developing an interest in programming for the social sciences using R. My direct supervisor was Oshrat Hochman, PhD.\nAt the University of Vechta in Germany, I developed my research agenda on migration and ageing. Prof. Dr. Maria Pavlova was my direct employer.\nMy PhD studies were at Bremen International School of Social Sciences (BIGSSS). The doctoral title was conferred by University of Bremen and Jacobs University Bremen (now Constructor University Bremen).\nI studied Sociology at the Bachelor level in Bucharest, Romania. I hold a Master’s degree in Social Psychology from University of Groningen, the Netherlands.\nI speak Romanian, English and German fluently. I currently learn French and Brazilian Portuguese.\nI practice Brazilian Jiu-Jitsu since 2021.\nI am a stroke survivor."
-  },
-  {
-    "objectID": "about.html#research-interests",
-    "href": "about.html#research-interests",
-    "title": "About",
-    "section": "",
-    "text": "Ageing, culture, and digital technology. Particular focus on ageing migrants."
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About",
-    "section": "",
-    "text": "Email: adrian.stanciu[at]uni.lu\nNote: I will not consider nor respond to unsolicited work inquiries, traineeship and any form of collaboration that involves financial efforts on my part or the institution I represent. For all such collaborations, only applications and requests via the official channels will be considered."
-  },
-  {
-    "objectID": "outreach.html",
-    "href": "outreach.html",
-    "title": "News",
-    "section": "",
-    "text": "Senior lecturer in health, Dr. Ágnes (Ági) Szabó (Victoria University of Wellington, New Zealand) will give a public presentation at University of Luxembourg addressing the interplay between ageing and acculturation research."
-  },
-  {
     "objectID": "outreach.html#online-series",
     "href": "outreach.html#online-series",
-    "title": "Outreach",
-    "section": "Online series",
-    "text": "Online series\nTogether with the Media Center at the University of Luxembourg, I am working on establishing an online series of ultra-short talks for the wider audience addressing the topic of “Digital technologies for older populations”.\nThe online series will be advertised through the known media outlets and will be freely available. Please stand by.\nThe mission is to generate online content that is evidence-based and from a multidisciplinary perspective that is easily accessible to experts and non-experts alike.\nWith the equal contribution from the for non-proifit organization GoldenMe, we aim to engage directly with members of the older community in Luxembourg.\n Go to top"
-  },
-  {
-    "objectID": "ppt.html#online-series",
-    "href": "ppt.html#online-series",
     "title": "Outreach",
     "section": "Online series",
     "text": "Online series\nTogether with the Media Center at the University of Luxembourg, I am working on establishing an online series of ultra-short talks for the wider audience addressing the topic of “Digital technologies for older populations”.\nThe online series will be advertised through the known media outlets and will be freely available. Please stand by.\nThe mission is to generate online content that is evidence-based and from a multidisciplinary perspective that is easily accessible to experts and non-experts alike.\nWith the equal contribution from the for non-proifit organization GoldenMe, we aim to engage directly with members of the older community in Luxembourg.\n Go to top"
@@ -140,6 +91,55 @@
     "text": "2013\n\nStanciu, A. (2013). When Stereotypes Acculturate: The Integrative Model of Stereotype Acculturation. Presentation at SoDoc-2013 PhD Workshop, Cologne, Germany. slides\n\n\n Go to top"
   },
   {
+    "objectID": "teach.html",
+    "href": "teach.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Introduction to the R universe - Beyond data analysis\n\n\nBio: You might know R from data analysis. But, R can do much more than that for you!\nType: Series of workshops for doctoral students\nPeriod: SoSe 2024 +\nInstitution: University of Luxembourg, Luxembourg\n\n\nIntroduction to R for quantitative social sciences\n\n\nBio: Coverse the basics needed to start using R for quantitative research\nType: Online-workshop part of the GESIS training program\nPeriod: 02.02.2022 - 04.02.2022\nInstitution: GESIS Leibniz Institute for Social Sciences, Germany"
+  },
+  {
+    "objectID": "teach.html#r",
+    "href": "teach.html#r",
+    "title": "Teaching",
+    "section": "",
+    "text": "Introduction to the R universe - Beyond data analysis\n\n\nBio: You might know R from data analysis. But, R can do much more than that for you!\nType: Series of workshops for doctoral students\nPeriod: SoSe 2024 +\nInstitution: University of Luxembourg, Luxembourg\n\n\nIntroduction to R for quantitative social sciences\n\n\nBio: Coverse the basics needed to start using R for quantitative research\nType: Online-workshop part of the GESIS training program\nPeriod: 02.02.2022 - 04.02.2022\nInstitution: GESIS Leibniz Institute for Social Sciences, Germany"
+  },
+  {
+    "objectID": "teach.html#ageing",
+    "href": "teach.html#ageing",
+    "title": "Teaching",
+    "section": "Ageing",
+    "text": "Ageing\n\nVielfalt der Altersbildern und deren Auswirkung [Diversity of old age images and outcomes]\n\n\nBio: A brief intro into psychological theories of old age images as well as cross-cultural themes\nType: Online-course; Guest-contribution in eGeneral Studies: Diversity-Kompetenzen\nPeriod: WiSe 2020/21\nInstitution: University of Bremen, Bremen, Germany\n\n\nHeterogenität des Alterns aus psychologischer Perspektive [Heterogeneity of ageing from a psychological perspective]\n\n\nBio: A discussion on the diversity dimensions of ageing (eg, due to sexual orientation, gender, cultural background) Addresses central theories in developmental, social and cross-cultural psychology\nType: Seminar\nPeriod: SoSe 2019; WiSe 2018/19\nInstitution: University of Vechta, Vechta, Germany\nSyllabus: here.\n\n\nPsychologische Forschung zu Altersbildern-Entstehung und Folgen [Psychological research to old age images: Causes and outcomes]\n\n\nBio: Discusses social, developmental, and cultural factors that contribute to the emergence of old age stereotype Addresses the impact on well-being, health, and functionality\nType: Seminar\nPeriod: WiSe 2019/20; 2018/19\nInstitution: University of Vechta, Vechta, Germany\nSyllabus: here."
+  },
+  {
+    "objectID": "teach.html#methods",
+    "href": "teach.html#methods",
+    "title": "Teaching",
+    "section": "Methods",
+    "text": "Methods\n\nDeskriptive und inferenzielle Statistik [Descriptive and inferential statistics]\n\n\nBio: Provides the basics in statistical lingua\nType: Seminar in the Master of Gerontology\nPeriod: WiSe 2024-25 +\nInstitution: University of Luxembourg, Luxembourg\n\n\nPsychological network systems\n\n\nBio: Introduces psychological network analysis and trains the required programming in R\nType: Seminar in Master of Psychological Assessment.\nPeriod: WiSe 2024-25 +\nInstitution: University of Luxembourg, Luxembourg"
+  },
+  {
+    "objectID": "teach.html#general-topics",
+    "href": "teach.html#general-topics",
+    "title": "Teaching",
+    "section": "General topics",
+    "text": "General topics\n\nCurrent debates in group processes and intergroup relations\n\n\nBio: Discusses key theories in social psychology and gives an introduction to appraoches to solving conflicts\nType: Course; Co-taught with Prof. Christopher J. Cohrs & Dr. Regina Arant (ne Kühl)\nPeriod: WiSe 2017/18\nInstitution: Jacobs University Bremen, Bremen, Germany"
+  },
+  {
+    "objectID": "teach.html#practical-skills",
+    "href": "teach.html#practical-skills",
+    "title": "Teaching",
+    "section": "Practical skills",
+    "text": "Practical skills\n\nIntroduction to reading and understanding research articles in Psychology (and Social Sciences)\n\n\nBio: Provides an overview of the scientific jargon and tips on efficiently extracting the relevant content\nType: Seminar.\nPeriod: WiSe 2019/20; SoSe 2018;2019.\nInstitution: University of Vechta, Vechta, DE.\nSyllabus: here.\n\n\n Go to top"
+  },
+  {
+    "objectID": "pub.html",
+    "href": "pub.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Go to top"
+  },
+  {
     "objectID": "pub.html#section",
     "href": "pub.html#section",
     "title": "Publications",
@@ -203,13 +203,6 @@
     "text": "2016\n\nStanciu, A. (2015a). The underlying structure of diverse work groups: A literature review on faultlines and diversity outcomes. Romanian Journal of Applied Psychology, 17, 63-71. open access\nStanciu, A. (2015b). Four sub-dimensions of stereotype content: Explanatory evidence from Romania. International Psychology Bulletin, 19, 14-20. open access"
   },
   {
-    "objectID": "pub.html#pre-prints-working-papers",
-    "href": "pub.html#pre-prints-working-papers",
-    "title": "Publications",
-    "section": "Pre-prints & working papers",
-    "text": "Pre-prints & working papers"
-  },
-  {
     "objectID": "pub.html#section-9",
     "href": "pub.html#section-9",
     "title": "Publications",
@@ -259,6 +252,41 @@
     "text": "2024\n\nStanciu, A. (2014, June 3). R beyond data analysis. https://adrian-stanciu.quarto.pub/r-beyond-data-analysis/"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "News",
+    "section": "",
+    "text": "Senior lecturer in health, Dr. Ágnes (Ági) Szabó (Victoria University of Wellington, New Zealand) will give a public presentation at University of Luxembourg addressing the interplay between ageing and acculturation research."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     Scholar\n  \n  \n    \n     Research Gate\n  \n\n  \n  \n\n\nAgeing, culture, and digital technology. Particular focus on ageing migrants.\n\n\n\nMember in the ALLBUS team (German General Social Survey) at GESIS - Leibniz Institute for the Social Sciences in Mannheim, Germany. Here, I acquired invaluable expertise into managing large scale surveys in addition to developing an interest in programming for the social sciences using R. My direct supervisor was Oshrat Hochman, PhD.\nAt the University of Vechta in Germany, I developed my research agenda on migration and ageing. Prof. Dr. Maria Pavlova was my direct employer.\nMy PhD studies were at Bremen International School of Social Sciences (BIGSSS). The doctoral title was conferred by University of Bremen and Jacobs University Bremen (now Constructor University Bremen).\nI studied Sociology at the Bachelor level in Bucharest, Romania. I hold a Master’s degree in Social Psychology from University of Groningen, the Netherlands.\nI speak Romanian, English and German fluently. I currently learn French and Brazilian Portuguese.\nI practice Brazilian Jiu-Jitsu since 2021.\nI am a stroke survivor.\n\n\n\nEmail: adrian.stanciu[at]uni.lu\nNote: I will not consider nor respond to unsolicited work inquiries, traineeship and any form of collaboration that involves financial efforts on my part or the institution I represent. For all such collaborations, only applications and requests via the official channels will be considered."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "",
+    "text": "Ageing, culture, and digital technology. Particular focus on ageing migrants."
+  },
+  {
+    "objectID": "about.html#bio",
+    "href": "about.html#bio",
+    "title": "About",
+    "section": "",
+    "text": "Member in the ALLBUS team (German General Social Survey) at GESIS - Leibniz Institute for the Social Sciences in Mannheim, Germany. Here, I acquired invaluable expertise into managing large scale surveys in addition to developing an interest in programming for the social sciences using R. My direct supervisor was Oshrat Hochman, PhD.\nAt the University of Vechta in Germany, I developed my research agenda on migration and ageing. Prof. Dr. Maria Pavlova was my direct employer.\nMy PhD studies were at Bremen International School of Social Sciences (BIGSSS). The doctoral title was conferred by University of Bremen and Jacobs University Bremen (now Constructor University Bremen).\nI studied Sociology at the Bachelor level in Bucharest, Romania. I hold a Master’s degree in Social Psychology from University of Groningen, the Netherlands.\nI speak Romanian, English and German fluently. I currently learn French and Brazilian Portuguese.\nI practice Brazilian Jiu-Jitsu since 2021.\nI am a stroke survivor."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "",
+    "text": "Email: adrian.stanciu[at]uni.lu\nNote: I will not consider nor respond to unsolicited work inquiries, traineeship and any form of collaboration that involves financial efforts on my part or the institution I represent. For all such collaborations, only applications and requests via the official channels will be considered."
+  },
+  {
     "objectID": "res.html",
     "href": "res.html",
     "title": "Research",
@@ -292,54 +320,5 @@
     "title": "Research",
     "section": "Other",
     "text": "Other\nIn addition to these current and main lines of work, I also research on adoption of cryptocurrency (see e.g. Stanciu et al. 2023) and explore new methodological avenues (see e.g. Witte, Stanciu, & Zenker, 2022).\nMoreover, a dear project to me is to promote the use of R beyond data analysis in the community of researchers in Psychology and Social Sciences. I am working on a primer paper on using shiny-apps in enhancing resarch communication.\n\n Go to top"
-  },
-  {
-    "objectID": "teach.html",
-    "href": "teach.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Introduction to the R universe - Beyond data analysis\n\n\nBio: You might know R from data analysis. But, R can do much more than that for you!\nType: Series of workshops for doctoral students\nPeriod: SoSe 2024 +\nInstitution: University of Luxembourg, Luxembourg\n\n\nIntroduction to R for quantitative social sciences\n\n\nBio: Coverse the basics needed to start using R for quantitative research\nType: Online-workshop part of the GESIS training program\nPeriod: 02.02.2022 - 04.02.2022\nInstitution: GESIS Leibniz Institute for Social Sciences, Germany"
-  },
-  {
-    "objectID": "teach.html#r",
-    "href": "teach.html#r",
-    "title": "Teaching",
-    "section": "",
-    "text": "Introduction to the R universe - Beyond data analysis\n\n\nBio: You might know R from data analysis. But, R can do much more than that for you!\nType: Series of workshops for doctoral students\nPeriod: SoSe 2024 +\nInstitution: University of Luxembourg, Luxembourg\n\n\nIntroduction to R for quantitative social sciences\n\n\nBio: Coverse the basics needed to start using R for quantitative research\nType: Online-workshop part of the GESIS training program\nPeriod: 02.02.2022 - 04.02.2022\nInstitution: GESIS Leibniz Institute for Social Sciences, Germany"
-  },
-  {
-    "objectID": "teach.html#ageing",
-    "href": "teach.html#ageing",
-    "title": "Teaching",
-    "section": "Ageing",
-    "text": "Ageing\n\nVielfalt der Altersbildern und deren Auswirkung [Diversity of old age images and outcomes]\n\n\nBio: A brief intro into psychological theories of old age images as well as cross-cultural themes\nType: Online-course; Guest-contribution in eGeneral Studies: Diversity-Kompetenzen\nPeriod: WiSe 2020/21\nInstitution: University of Bremen, Bremen, Germany\n\n\nHeterogenität des Alterns aus psychologischer Perspektive [Heterogeneity of ageing from a psychological perspective]\n\n\nBio: A discussion on the diversity dimensions of ageing (eg, due to sexual orientation, gender, cultural background) Addresses central theories in developmental, social and cross-cultural psychology\nType: Seminar\nPeriod: SoSe 2019; WiSe 2018/19\nInstitution: University of Vechta, Vechta, Germany\nSyllabus: here.\n\n\nPsychologische Forschung zu Altersbildern-Entstehung und Folgen [Psychological research to old age images: Causes and outcomes]\n\n\nBio: Discusses social, developmental, and cultural factors that contribute to the emergence of old age stereotype Addresses the impact on well-being, health, and functionality\nType: Seminar\nPeriod: WiSe 2019/20; 2018/19\nInstitution: University of Vechta, Vechta, Germany\nSyllabus: here."
-  },
-  {
-    "objectID": "teach.html#methods",
-    "href": "teach.html#methods",
-    "title": "Teaching",
-    "section": "Methods",
-    "text": "Methods\n\nDeskriptive und inferenzielle Statistik [Descriptive and inferential statistics]\n\n\nBio: Provides the basics in statistical lingua\nType: Seminar in the Master of Gerontology\nPeriod: WiSe 2024-25 +\nInstitution: University of Luxembourg, Luxembourg\n\n\nPsychological network systems\n\n\nBio: Introduces psychological network analysis and trains the required programming in R\nType: Seminar in Master of Psychological Assessment.\nPeriod: WiSe 2024-25 +\nInstitution: University of Luxembourg, Luxembourg"
-  },
-  {
-    "objectID": "teach.html#general-topics",
-    "href": "teach.html#general-topics",
-    "title": "Teaching",
-    "section": "General topics",
-    "text": "General topics\n\nCurrent debates in group processes and intergroup relations\n\n\nBio: Discusses key theories in social psychology and gives an introduction to appraoches to solving conflicts\nType: Course; Co-taught with Prof. Christopher J. Cohrs & Dr. Regina Arant (ne Kühl)\nPeriod: WiSe 2017/18\nInstitution: Jacobs University Bremen, Bremen, Germany"
-  },
-  {
-    "objectID": "teach.html#practical-skills",
-    "href": "teach.html#practical-skills",
-    "title": "Teaching",
-    "section": "Practical skills",
-    "text": "Practical skills\n\nIntroduction to reading and understanding research articles in Psychology (and Social Sciences)\n\n\nBio: Provides an overview of the scientific jargon and tips on efficiently extracting the relevant content\nType: Seminar.\nPeriod: WiSe 2019/20; SoSe 2018;2019.\nInstitution: University of Vechta, Vechta, DE.\nSyllabus: here.\n\n\n Go to top"
-  },
-  {
-    "objectID": "pub.html",
-    "href": "pub.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Go to top"
   }
 ]
