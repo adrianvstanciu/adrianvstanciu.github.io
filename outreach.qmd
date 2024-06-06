@@ -11,13 +11,34 @@ ___
 
 ## Online series
 
-Together with the Media Center at the University of Luxembourg, I am working on establishing an online series of ultra-short talks for the wider audience addressing the topic of "Digital technologies for older populations". 
+Together with the MEDIACentre (direct involvement of [Sascha HELSPER](https://www.uni.lu/fhse-en/people/sascha-helsper/)) at the University of Luxembourg, I am working on establishing an online series of short talks for the wider audience addressing the topic of `Digital technologies for older populations -- DigiTechOP`. 
 
-The online series will be advertised through the known media outlets and will be freely available. Please stand by.
+The online series will be advertised through the known media outlets and will be freely available.
 
 The mission is to generate online content that is evidence-based and from a multidisciplinary perspective that is easily accessible to experts and non-experts alike. 
 
-With the equal contribution from the for non-proifit organization [GoldenMe](https://www.goldenme.me/), we aim to engage directly with members of the older community in Luxembourg. 
+With the equal contribution from the for non-proifit organization [GoldenMe](https://www.goldenme.me/), with the direct involvement of co-founder and director [Mara KROTH](https://www.goldenme.me/ueber-uns), we aim to engage directly with members of the older community in Luxembourg, in addition to reaching non-experts in the field and students alike. 
+
+<style>
+.myclass {
+  max-width: 100%;
+  width: 800px;
+  height: 600px;
+  border: 5px solid lightblue;
+  margin: 0;
+}
+</style>
+
+{{< pdf mat/digitechop.pdf class=myclass >}}
+
+:::aside
+By reading and downloading the concept paper `DigiTechOP` you agree to the copyright agreement stipulated under CC BY-NC 4.0.
+
+:::
+
+:::aside
+Read more on [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/).
+:::
 
 <a href="#top"> Go to top </a>
 
