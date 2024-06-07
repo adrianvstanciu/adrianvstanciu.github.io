@@ -14,7 +14,7 @@ output: html_document
 
 ## 2024
 
-1. Stanciu, A. (2024). Psychology or psychologies of migration and ageing. Presentation at EMPRA congress. University of Luxembourg.
+1. Stanciu, A. (2024). Psychology or psychologies of ageing and migration. Presentation at EMPRA congress. University of Luxembourg.
 
 ## 2023
 

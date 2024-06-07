@@ -11,7 +11,7 @@ ___
 
 ## Online series
 
-Together with the MEDIACentre (direct involvement of [Sascha HELSPER](https://www.uni.lu/fhse-en/people/sascha-helsper/)) at the University of Luxembourg, I am working on establishing an online series of short talks for the wider audience addressing the topic of `Digital technologies for older populations -- DigiTechOP`. 
+With the MEDIACentre (direct involvement of [Sascha HELSPER](https://www.uni.lu/fhse-en/people/sascha-helsper/)) at the University of Luxembourg, I am working on establishing an online series of short talks for the wider audience addressing the topic of `Digital technologies for older populations -- DigiTechOP`. 
 
 The online series will be advertised through the known media outlets and will be freely available.
 
