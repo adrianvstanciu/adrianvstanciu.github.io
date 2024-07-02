@@ -5,6 +5,11 @@ website:
   title: "Dr. Stanciu"
   favicon: img/favicon.png
   navbar:
+    tools: 
+      - icon: github
+        href: https://github.com/adrianvstanciu
+      - icon: google
+        href: https://scholar.google.com/citations?user=vy80cu8AAAAJ&hl=en
     left:
       - href: index.qmd
         text: News
