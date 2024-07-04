@@ -7,6 +7,16 @@ output:
     toc_float: true
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VLRYTQT397"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VLRYTQT397');
+</script>
+
 ___
 
 ## Online series
@@ -43,3 +53,4 @@ Read more on [https://creativecommons.org/licenses/by-nc/4.0/](https://creativec
 <a href="#top"> Go to top </a>
 
 ___
+

@@ -8,6 +8,17 @@ output:
     toc_depth: 3
     toc_float: true
 ---
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VLRYTQT397"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VLRYTQT397');
+</script>
+
 ___
 
 **NOTE:** As of `r Sys.Date()` this brief guide may be considered out-dated. I provided an ultra-brief guide for creating website, and much more, in this online self-published book [R beyond data analysis](https://adrian-stanciu.quarto.pub/r-beyond-data-analysis/).

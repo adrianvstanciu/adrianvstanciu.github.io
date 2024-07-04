@@ -4,6 +4,12 @@ project:
 website:
   title: "Dr. Stanciu"
   favicon: img/favicon.png
+  cookie-consent:
+    type: express
+    style: headline
+  google-analytics: 
+    tracking-id: G-VLRYTQT397
+    anonymize-ip: true
   navbar:
     tools: 
       - icon: github

@@ -2,8 +2,20 @@
 title: "News"
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VLRYTQT397"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VLRYTQT397');
+</script>
+
+
 Edited book at Springer VS is now in press and will be [available](https://link.springer.com/book/9783658444617) this Fall 2024 (chapters freely available from authors).
 
 We brought together a select few chapters from senior and younger researchers who have worked and currently work with data from the German General Social Survey ([ALLBUS](https://www.gesis.org/en/allbus)). ALLBUS has recently celebrated 40 years of existence, and to mark this impressive milestone, we address several themes relevant for the long-term societal observation in Germany. For example, inequality and migration and how over the years these topics have become more (or less) relevant for the local population. Moreover, we address in this book a number of methodological developments that have made ALLBUS not only survived four decades of existence but also established it as a paragon of high quality data in the country and beyond. 
 
 ![](img/40jahre.webp){.lightbox width=50% fig-align="center"}
+
