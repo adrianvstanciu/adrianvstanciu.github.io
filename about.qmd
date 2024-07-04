@@ -63,7 +63,7 @@ date<- format(Sys.Date(), "%d %B %Y")
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <div>(Non-unique) Visits since: `{r} date`</div>
+    <div>(Non-unique) Visits since last website update: `{r} date`</div>
     <div class="website-counter"></div>
   </body>
 </html>
