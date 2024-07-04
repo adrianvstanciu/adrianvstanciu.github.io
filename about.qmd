@@ -48,4 +48,25 @@ I am a stroke survivor.
 
 **Note**: I will not consider nor respond to unsolicited work inquiries, traineeship and any form of collaboration that involves financial efforts on my part or the institution I represent. For all such collaborations, only applications and requests via the official channels will be considered.
 
-:::
+
+## Counter
+
+```{r,eval=TRUE,echo=F}
+
+date<- format(Sys.Date(), "%d %B %Y")
+```
+
+<html>
+  <head>
+    <title>Counter</title>
+    <script defer src="index.js"></script>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div>(Non-unique) Visits since: `{r} date`</div>
+    <div class="website-counter"></div>
+  </body>
+</html>
+
+
+::: 
