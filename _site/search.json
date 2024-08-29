@@ -95,14 +95,21 @@
     "href": "teach.html",
     "title": "Teaching",
     "section": "",
-    "text": "Introduction to the R universe - Beyond data analysis\n\n\nBio: You might know R from data analysis. But, R can do much more than that for you!\nType: Series of workshops for doctoral students\nPeriod: SoSe 2024 +\nInstitution: University of Luxembourg, Luxembourg\n\n\nIntroduction to R for quantitative social sciences\n\n\nBio: Coverse the basics needed to start using R for quantitative research\nType: Online-workshop part of the GESIS training program\nPeriod: 02.02.2022 - 04.02.2022\nInstitution: GESIS Leibniz Institute for Social Sciences, Germany"
+    "text": "PhD candidate G. Christofoletti (starting date 1.10.2024) on the topic of “Social isolation, language and cognitive decline and ageing migrants”\nEMPRA supervisor - a research focused-practical at the University of Luxembourg whereby a group of Ba-level students conducts their own projects mentored by a supervisor\nMaster theses on various topics including psychotherapy and culture"
+  },
+  {
+    "objectID": "teach.html#supervision",
+    "href": "teach.html#supervision",
+    "title": "Teaching",
+    "section": "",
+    "text": "PhD candidate G. Christofoletti (starting date 1.10.2024) on the topic of “Social isolation, language and cognitive decline and ageing migrants”\nEMPRA supervisor - a research focused-practical at the University of Luxembourg whereby a group of Ba-level students conducts their own projects mentored by a supervisor\nMaster theses on various topics including psychotherapy and culture"
   },
   {
     "objectID": "teach.html#r",
     "href": "teach.html#r",
     "title": "Teaching",
-    "section": "",
-    "text": "Introduction to the R universe - Beyond data analysis\n\n\nBio: You might know R from data analysis. But, R can do much more than that for you!\nType: Series of workshops for doctoral students\nPeriod: SoSe 2024 +\nInstitution: University of Luxembourg, Luxembourg\n\n\nIntroduction to R for quantitative social sciences\n\n\nBio: Coverse the basics needed to start using R for quantitative research\nType: Online-workshop part of the GESIS training program\nPeriod: 02.02.2022 - 04.02.2022\nInstitution: GESIS Leibniz Institute for Social Sciences, Germany"
+    "section": "R",
+    "text": "R\n\nIntroduction to the R universe - Beyond data analysis\n\n\nBio: You might know R from data analysis. But, R can do much more than that for you!\nType: Series of workshops for doctoral students\nPeriod: SoSe 2024 +\nInstitution: University of Luxembourg, Luxembourg\n\n\nIntroduction to R for quantitative social sciences\n\n\nBio: Coverse the basics needed to start using R for quantitative research\nType: Online-workshop part of the GESIS training program\nPeriod: 02.02.2022 - 04.02.2022\nInstitution: GESIS Leibniz Institute for Social Sciences, Germany"
   },
   {
     "objectID": "teach.html#ageing",
@@ -144,7 +151,7 @@
     "href": "pub.html#section",
     "title": "Publications",
     "section": "2024",
-    "text": "2024\n\nSmallenbroek, O. & Stanciu, A. (conditional acceptance). Age and gender differences in the value development of Dutch adults in 11 years of longitudinal data. Journal of Research in Personality.\nStanciu, A., Partsch, M. V., & Lechner, C. (in press). Basic human values and the adoption of cryptocurrency. Frontiers in Psychology."
+    "text": "2024\n\nSmallenbroek, O. & Stanciu, A. (conditional acceptance). Age and gender differences in the value development of Dutch adults in 11 years of longitudinal data. Journal of Research in Personality.\nStanciu, A., Partsch, M. V., & Lechner, C. (2024). Basic human values and the adoption of cryptocurrency. Frontiers in Psychology, 15: 1395674. https://doi.org/10.3389/fpsyg.2024.1395674 [open access]"
   },
   {
     "objectID": "pub.html#section-1",
@@ -256,7 +263,7 @@
     "href": "sitedummy.html",
     "title": "Website for complete beginners",
     "section": "",
-    "text": "NOTE: As of 2024-08-05 this brief guide may be considered out-dated. I provided an ultra-brief guide for creating website, and much more, in this online self-published book R beyond data analysis."
+    "text": "NOTE: As of 2024-08-29 this brief guide may be considered out-dated. I provided an ultra-brief guide for creating website, and much more, in this online self-published book R beyond data analysis."
   },
   {
     "objectID": "sitedummy.html#why-this-guide",

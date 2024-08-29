@@ -25,7 +25,7 @@ output:
 
 1. Smallenbroek, O. & Stanciu, A. (conditional acceptance). Age and gender differences in the value development of Dutch adults in 11 years of longitudinal data. Journal of Research in Personality.
 
-2. Stanciu, A., Partsch, M. V., & Lechner, C. (in press). Basic human values and the adoption of cryptocurrency. Frontiers in Psychology.
+2. Stanciu, A., Partsch, M. V., & Lechner, C. (2024). Basic human values and the adoption of cryptocurrency. Frontiers in Psychology, 15: 1395674. <https://doi.org/10.3389/fpsyg.2024.1395674> [open access]
 
 ## 2023 
 1. Smallenbroek, O., **Stanciu, A.**, Arant, R., & Boehnke, K. (2023). Are values stable throughout adulthood? Evidence from two German long-term panel studies. PloS One, 18(11), e0289487. [open access](https://doi.org/10.1371/journal.pone.0289487)

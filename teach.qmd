@@ -17,6 +17,14 @@ output:
   gtag('config', 'G-VLRYTQT397');
 </script>
 
+## Supervision
+
+- PhD candidate G. Christofoletti (starting date 1.10.2024) on the topic of "Social isolation, language and cognitive decline and ageing migrants"
+
+- EMPRA supervisor - a research focused-practical at the University of Luxembourg whereby a group of Ba-level students conducts their own projects mentored by a supervisor
+
+- Master theses on various topics including psychotherapy and culture
+
 ## R
 
 (1) Introduction to the R universe - Beyond data analysis
