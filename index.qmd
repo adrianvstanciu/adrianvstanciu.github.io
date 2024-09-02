@@ -13,7 +13,7 @@ title: "News"
 </script>
 
 
-New preprint addressing value systems compared across age, gender and education attainment groups is publicly available at OSF, including all the study materials required in reproducing the reported results: <https://osf.io/vewf9> (pending moderator approval as of 1. August, 2024)
+New preprint addressing value systems compared across age, gender and education attainment groups is publicly available at OSF, including all the study materials required in reproducing the reported results: <https://osf.io/vewf9>.
 
 
 :::{#fig-fig3 layout-ncol=2}

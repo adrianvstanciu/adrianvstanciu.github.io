@@ -76,7 +76,7 @@ output:
 ### Pre-prints & working papers
 
 ## 2024
-1. Stanciu, A. (2024, August 1). Values in psychological network systems compared across groups. <https://osf.io/vewf9> (pending moderator approval as of 1. August, 2024)
+1. Stanciu, A. (2024, August 1). Values in psychological network systems compared across groups. <https://osf.io/vewf9>.
 
 2. Stanciu, A., Dominguez-Rodriguez, A., & Westerhof, G. (2024, June 17). Multidimensional determinants to adoption, use and effectiveness of digital technologies for healthy ageing in migrant populations: A scoping review protocol. Study registration. [Registration available](https://osf.io/dwtby).
 
