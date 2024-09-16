@@ -25,7 +25,7 @@ output:
 
 1. Stanciu, A. (2024). Values in psychological network systems compared across groups. _under review at PLoS One_ (read [preprint here](https://osf.io/vewf9))
 
-2. Smallenbroek, O. & Stanciu, A. (in press). Age and gender differences in the value development of Dutch adults in 11 years of longitudinal data. Journal of Research in Personality.
+2. Smallenbroek, O. & Stanciu, A. (2024). Age and gender differences in the value development of Dutch adults in 11 years of longitudinal data. Journal of Research in Personality. _journal pre-proof version_ available: <https://doi.org/10.1016/j.jrp.2024.104540>
 
 3. Stanciu, A., Partsch, M. V., & Lechner, C. (2024). Basic human values and the adoption of cryptocurrency. Frontiers in Psychology, 15: 1395674. <https://doi.org/10.3389/fpsyg.2024.1395674> [open access]
 
