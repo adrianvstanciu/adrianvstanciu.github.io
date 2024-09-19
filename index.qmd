@@ -13,11 +13,11 @@ title: "News"
 </script>
 
 
-On one-week long research stay at the University of Twente at the department of Psychology, Health and Technology. Here, to engage with local researchers and develop cross-institutional collaboration on topics relevant for improving health ageing in migrant older populations. 
+During a one week research stay at the department of Psychology, Health and Technology of University of Twente, I had the chance to develop cross-institutional collaborations on topics relevant for improving healthy ageing in migrant older populations. 
 
-Many interesting collaborative works planned as a result including on health, technology, and migrant older populations. 
+Several collaborative works have been discussed and planned as a result including on health, technology, and migrant older populations. 
 
-Visits of colleagues in Luxembourg are planned for November and tentatively Spring 2025. Stay tooned for further updates.
+Visits of colleagues in Luxembourg are planned for November and tentatively Spring 2025.
 
 :::{#fig-twente layout-ncol=2}
 
