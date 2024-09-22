@@ -13,7 +13,7 @@ title: "News"
 </script>
 
 
-During a one week research stay at the department of Psychology, Health and Technology of University of Twente, I had the chance to develop cross-institutional collaborations on topics relevant for improving healthy ageing in migrant older populations. 
+During a one week research stay at the department of Psychology, Health and Technology of University of Twente, I had the chance to develop cross-institutional collaborations on topics relevant for promoting healthy ageing in migrant older populations. 
 
 Several collaborative works have been discussed and planned as a result including on health, technology, and migrant older populations. 
 
@@ -23,7 +23,7 @@ Visits of colleagues in Luxembourg are planned for November and tentatively Spri
 
 ![Introductory workshop](img/workshoptwente1.jpeg){#fig-twente1}
 
-![High interst in the metho](img/workshoptwente2.jpeg){#fig-twente2}
+![High interst in the method](img/workshoptwente2.jpeg){#fig-twente2}
 
 
 An ultra-brief introductory workshop on "Psychological network systems and analysis", at Twente University, September 2024
