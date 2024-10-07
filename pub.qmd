@@ -100,7 +100,9 @@ output:
 ### Books / book chapters
 
 ## 2024
-1. Hochman, O., **Stanciu, A.**, & Hadjar, A. (Eds.) (forthcoming). 40 Jahre ALLBUS - Die deutsche Gesellschaft im Wandel. Spinger.
+1. Hochman, O., **Stanciu, A.**, & Hadjar, A. (Eds.) (2024). 40 Jahre ALLBUS - Die deutsche Gesellschaft im Wandel [40 years of ALLBUS - The German society in transition]. Spinger.
+
+2. Stanciu, A., Hochman, O., & Hadjar, A. (2024) 40 Jahre ALLBUS - Die deutsche Gesellschaft im Wandel (Einleitung) [40 years of ALLBUS - The German society in transition]. In O. Hochman, A. Stanciu & A. Hadjar (Eds.), _40 Jahre ALLBUS - Die deutsche Gesellschaft im Wandel_ (pp. 1-13). Springer.
 
 ## 2017 
 1. Stanciu, A. (2017). Overall and contextually-bound well-being. Life satisfaction of Romanian migrant-emerging-adults as the outcome of a mediated association acculturation-adaptation. In R. Dimitrova (Ed.), Well-being of Youth and Emerging Adults across Cultures. Springer Series on Cross-Cultural Advancements in Positive Psychology. [open access](pdf/Stanciu_Chapter2017.pdf)
