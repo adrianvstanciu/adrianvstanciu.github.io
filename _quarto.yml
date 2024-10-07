@@ -19,8 +19,10 @@ website:
     left:
       - href: index.qmd
         text: News
-      - href: res.qmd
-        text: Research
+      - text: Research
+        menu: 
+          - res.qmd
+          - phd.qmd
       - href: outreach.qmd
         text: Outreach
       - href: pub.qmd

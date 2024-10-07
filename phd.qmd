@@ -1,5 +1,11 @@
 ---
-title: "News"
+title: "PhD candidates"
+subtitle: "Gabriela Christofoletti"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
 ---
 
 <!-- Google tag (gtag.js) -->
@@ -20,9 +26,9 @@ title: "News"
 :::
 :::{.column width=60%}
 
-Phd candidate Gabriela Christofoletti has recently joined the University of Luxembourg. Gabriela will work for the next years on _Loneliness in aging migrants: Understanding whether language translates into emotional acculturation_. 
+Gabriela works on _Loneliness in aging migrants: Understanding whether language translates into emotional acculturation_. 
 
-Read below an abstract of Gabriela's planned research.
+Read below an abstract of Gabriela's research.
 
 Migration is a global phenomenon, with over 281 million international migrants worldwide. As migration increases, understanding the impact of migrating on one's mental health becomes increasingly crucial. One significant psychological consequence of migrating is experiencing isolation and loneliness. While loneliness has emerged as a critical public health concern in general, it disproportionately affects specific population segments, including migrants and older individuals– which, combined, might put older migrants at an even heightened risk of experiencing loneliness.
 
@@ -30,6 +36,8 @@ My research aims to explore the role of language to address the intricacies of l
 
 Keywords: Migration, Loneliness, Aging, Acculturation, Emotional Expression, Language, Language embodiment
 
-
 :::
 ::::
+
+<a href="#top"> Go to top </a>
+
