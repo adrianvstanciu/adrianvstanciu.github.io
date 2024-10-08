@@ -17,9 +17,13 @@ output:
   gtag('config', 'G-VLRYTQT397');
 </script>
 
+If I were to summarize in one sentence my current agenda, this would be it:
+
+> Adequate theory from adequate data informs adequate interventions, policy making, and digital technology that accommodate the healthcare needs and life experiences of older migrant populations
+
 ## Ageing migrants
 
-Currently, I work on integrating the ageing and migration literature for a longitudinal and comparative study of the life experience and healthcare needs of populations of ageing migrants. 
+I work on integrating the ageing and migration literature for a longitudinal and comparative study of the life experience and healthcare needs of populations of ageing migrants. 
 
 Together with colleagues from the University of Twente (the Netherlands), I aim to uncover multidimensional determinants to adoption, use, and effectiveness of digital tools for healthy ageing in migrant populations. Registration and study protocol will soon be available online.
 
