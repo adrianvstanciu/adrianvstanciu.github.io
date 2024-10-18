@@ -12,25 +12,14 @@ title: "News"
   gtag('config', 'G-VLRYTQT397');
 </script>
 
+[💥 Launch of a new IAS-Brainstorm project: PSOAMLux!]{style="font-size: 2em"}
 
-::::{.columns}
-:::{.column width=40%}
-![PhD candidate Gabriela Christofoletti.](img/photo-eu.jpg){width=40%}
+![](https://www.uni.lu/wp-content/uploads/sites/8/2023/08/ias-project-card-brainstorm.png){width=30% fig-align="center"}
 
-:::
-:::{.column width=60%}
-
-Phd candidate Gabriela Christofoletti has recently joined the University of Luxembourg. Gabriela will work for the next years on _Loneliness in aging migrants: Understanding whether language translates into emotional acculturation_. 
-
-Read below an abstract of Gabriela's planned research.
-
-Migration is a global phenomenon, with over 281 million international migrants worldwide. As migration increases, understanding the impact of migrating on one's mental health becomes increasingly crucial. One significant psychological consequence of migrating is experiencing isolation and loneliness. While loneliness has emerged as a critical public health concern in general, it disproportionately affects specific population segments, including migrants and older individuals– which, combined, might put older migrants at an even heightened risk of experiencing loneliness.
-
-My research aims to explore the role of language to address the intricacies of loneliness among older migrants. Focusing on emotional aspects of acculturation, namely emotional acculturation, it examines language as both a tool for integration and as a mechanism for emotional regulation. Moreover, it investigates the constraints imposed by using a foreign language on emotional expression, as well as the affective significance of the mother tongue. By analyzing the interplay between language, emotion, and acculturation, this study seeks to uncover mechanisms underlying loneliness in aging migrants, offering insights to reduce their sense of loneliness.
-
-Keywords: Migration, Loneliness, Aging, Acculturation, Emotional Expression, Language, Language embodiment
-
-Contact Gabriela for research related questions at: gabriela.christofoletti[at]uni.lu 
-
-:::
-::::
+The project PSOAMLux “Panel Study of Older and Ageing Migrants in Luxembourg” is a Brainstorm project funded by the Institute for Advanced Studies (IAS) Luxembourg and led by myself as Coord-PI, and Prof. [Jochen KLUCKEN](https://www.uni.lu/lcsb-en/people/jochen-klucken/) (LCSB - Digital Medicine) and Dr. [Ana Carolina TEIXEIRA SANTOS](https://www.uni.lu/fhse-en/people/ana-carolina-teixeira-santos/) (FHSE - Department of Social Sciences) as Co-PIs. Part of the organizing team is likewise Dr. [Ivana PACCOUD](https://www.uni.lu/lcsb-en/people/ivana-paccoud/) (LCSB - Digital Medicine).
+ 
+Luxembourg is set to see a significant increase in ageing migrants, a trend that necessitates urgent attention to ensure inclusive, personalized healthcare in the transition to a digital society. Ageing migrants face unique healthcare needs and specific barriers related to their migration experiences, yet research on their ageing and cultural adaptation has largely been separate. This group is often hard to reach and wrongly viewed as homogeneous, complicating efforts to study their health needs. The lack of targeted research creates challenges for policymakers and health sectors due to insufficient data.
+ 
+To address these issues, we address the first steps in establishing the Panel Study of Older and Ageing Migrants in Luxembourg (PSOAMLux). PSOAMLux is a multidisciplinary initiative that aims to collect self-reported and secondary data systematically and periodically on topics like ageing, cultural adaptation, health, and digital health technology. A group of fifteen experts will work to identify relevant research topics, address obstacles, and develop a coordinated follow-up strategy moving towards establishing the panel study.
+ 
+If you'd like to find out more about the project, you can click on this link: [Brainstorm - University of Luxembourg I Uni.lu](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.uni.lu%2Fresearch-en%2Fias%2Ffunded-projects%2Fbrainstorm%2F%232024&data=05%7C02%7Cadrian.stanciu%40uni.lu%7C9b366bd20fa347e65f3208dce7821cba%7C445a9c950f9d49539db1bc4a45dd1220%7C0%7C0%7C638639793213848812%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=bC6qRYWq9OrGYFwQPiIYa5vyg7to3ESiDb67CAbzEW4%3D&reserved=0) or contact me.
