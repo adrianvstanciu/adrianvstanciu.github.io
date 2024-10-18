@@ -29,8 +29,10 @@ website:
         text: Publications
       - href: ppt.qmd
         text: Presentations
-      - href: teach.qmd
-        text: Teaching
+      - text: Teaching
+        menu: 
+          - teach.qmd
+          - workshp.qmd
       - href: about.qmd
         text: About
 

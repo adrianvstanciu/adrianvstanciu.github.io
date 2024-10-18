@@ -1,0 +1,42 @@
+---
+title: "Workshops"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+---
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VLRYTQT397"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VLRYTQT397');
+</script>
+
+
+# Introduction to psychological network systems and analysis
+
+::::{.columns}
+:::{.column width=40%}
+![The beginning of a 4 hours session, 09.2024.](img/twente2.jpeg){width=70%}
+
+![Great turnout at Twente University!](img/twente1.jpeg){width=70%}
+
+:::
+:::{.column width=60%}
+
+Read from the workshop description below. 
+
+Dimensionality, standard procedure in the Item Response Theory, is agnostic to dynamics between formative elements of a construct. Meanwhile, advances in abnormal psychology and network analysis have prompted thinking about psychological phenomena as formed from said dynamics. Certain psychological constructs, for instance, depression or values, can be mapped as a network of causally interrelated cognitive and emotional reactions to internal and external stimuli. Observed psychological phenomena are activated contingent on specific causal dynamics between formative elements, and observed differences between people and groups indicate variations in how the formative elements relate to each-other.  Thus, one can identify highly influential elements of formed network (central nodes) in addition to specifics of interactions between each pair of elements (edges). Analyses at the group level can uncover unique dynamics that can be the target of intervention strategies.
+
+Contact me if you would like to organize a workshop at your institution.
+
+:::
+::::
+
+<a href="#top"> Go to top </a>
+
