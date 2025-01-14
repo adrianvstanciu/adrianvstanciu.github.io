@@ -19,6 +19,8 @@ output:
 
 ---
 
+### Gabriela Christofoletti
+
 ::::{.columns}
 :::{.column width=40%}
 ![PhD candidate Gabriela Christofoletti.](img/photo-eu.jpg){width=40%}
@@ -41,6 +43,8 @@ Contact Gabriela for research related questions at: gabriela.christofoletti[at]u
 ::::
 
 ---
+
+### Romain Toebosch
 
 ::::{.columns}
 :::{.column width=40%}
