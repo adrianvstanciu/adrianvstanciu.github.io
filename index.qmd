@@ -12,15 +12,28 @@ title: "News"
   gtag('config', 'G-VLRYTQT397');
 </script>
 
-[Departmental visit from colleagues at University of Twente]{style="font-size: 1.7em"}
+[🌍 “PSOAMLux: Panel Study of Older and Ageing Migrants in Luxembourg”]{style="font-size: 1.5em"}
 
-![](img/ppt_gerben.png){.lightbox width=45% fig-align="center"}
+![](img/psoamlux.png){.lightbox width=50% fig-align="center"}
 
-Prof. [Gerben Westerhof](https://people.utwente.nl/g.j.westerhof) and Prof. [Alejandro Dominguez-Rodriguez](https://people.utwente.nl/a.dominguezrodriguez) will visit the department of cognitive behavioral sciences (DBCS) at the University of Luxembourg. Both Gerben and Alejandro work on issues involving the development and application of digital technologies in treating and intervening on mental health problems. 
+What are the healthcare needs of older migrants in Luxembourg? How do their life experiences shape their health? These critical questions remain unanswered due to limited data and research.
+ 
+The PSOAMLux event, funded by the Institute for Advanced Studies (IAS) Luxembourg as part of the Brainstorm call 2024, brings together local and international experts to develop an actionable plan for a panel study on ageing migrants in Luxembourg.
+ 
+Principal Investigators Prof. Adrian Stanciu (FHSE - Behavioural and Cognitive Sciences), Prof. Prof. Dr. med. [Jochen Klucken](https://www.uni.lu/lcsb-en/people/jochen-klucken/) (LCSB - Digital Medicine), and Dr. [Ana Carolina Santos](https://www.uni.lu/fhse-en/people/ana-carolina-teixeira-santos/) (FHSE - Social Sciences), with special contribution from Dr. [Ivana Paccoud](https://www.uni.lu/lcsb-en/people/ivana-paccoud/) (LCSB - Digital Medicine), will lead three days of insightful presentations. 
 
-Gerben will hold a guest presentation on February 4th on the topic of "Sustainable mental health and technology". 
+Registred participants will:
+ 
+🔹 Engage in discussions on ageing, migration, methodology, and ethics.
 
-Both Gerben and Alejandro have kindly agreed to give each a workshop sharing their expertise. Gerben will focus on _Narrative Psychology_ and Alejandro will focus on _Accessible Online Interventions_. 
-
-I look forward to their visit and should you want to know more about our work or their work, send me an email (See About page).
+🔹 Join the public panel discussion & closing ceremony on March 13.
+ 
+📅 March 11-13 at the University of Luxembourg, Belval Campus, Maison des Sciences Humaines (“BlackBox”)
+ 
+🔗 Detailed program and registration link 👉  <https://lnkd.in/dz6ne4m7>
+ 
+📩 For those wishing to connect via Webex, a link will be provided 1 or 2 days before the event.
+ 
+👥 Everyone is welcome! Let’s build a better understanding of ageing migrants' healthcare needs.
+ 
 
