@@ -12,28 +12,29 @@ title: "News"
   gtag('config', 'G-VLRYTQT397');
 </script>
 
-[🌍 “PSOAMLux: Panel Study of Older and Ageing Migrants in Luxembourg”]{style="font-size: 1.5em"}
 
-![](img/psoamlux.png){.lightbox width=50% fig-align="center"}
+[PSOAMLux event generates an actionable plan]{style="font-size: 1.5em; color: #8b0000"} 
 
-What are the healthcare needs of older migrants in Luxembourg? How do their life experiences shape their health? These critical questions remain unanswered due to limited data and research.
- 
-The PSOAMLux event, funded by the [Institute for Advanced Studies](https://www.uni.lu/research-en/ias/) (IAS) Luxembourg as part of the Brainstorm call 2024, brings together local and international experts to develop an actionable plan for a panel study on ageing migrants in Luxembourg.
- 
-Principal Investigators Prof. Adrian Stanciu (FHSE - Behavioural and Cognitive Sciences), Prof. Prof. Dr. med. [Jochen Klucken](https://www.uni.lu/lcsb-en/people/jochen-klucken/) (LCSB - Digital Medicine), and Dr. [Ana Carolina Santos](https://www.uni.lu/fhse-en/people/ana-carolina-teixeira-santos/) (FHSE - Social Sciences), with special contribution from Dr. [Ivana Paccoud](https://www.uni.lu/lcsb-en/people/ivana-paccoud/) (LCSB - Digital Medicine), will lead three days of insightful presentations. 
+![Some of the workgroup members](img/workgroup_psoamlux.jpg){.lightbox width=50%}
 
-Registred participants will:
- 
-🔹 Engage in discussions on ageing, migration, methodology, and ethics.
+PSOAMLux stands for Panel Study of Older and Ageing Migrants in Luxembourg. PSOAMLux is an event funded by the University of Luxembourg Institute of Advanced Study ([IAS](https://www.uni.lu/research-en/ias/)) through the BRAINSTORM instrument.
 
-🔹 Join the public panel discussion & closing ceremony on March 13.
- 
-📅 March 11-13 at the University of Luxembourg, Belval Campus, Maison des Sciences Humaines (“BlackBox”)
- 
-🔗 Detailed program and registration link 👉  <https://lnkd.in/dz6ne4m7>
- 
-📩 For those wishing to connect via Webex, a link will be provided 1 or 2 days before the event.
- 
-👥 Everyone is welcome! Let’s build a better understanding of ageing migrants' healthcare needs.
- 
+PSOAMLux brought together a group of international and local experts and community representatives to discuss ways forward in assessing and evaluating the life experience and healthcare needs of migrant older populations. 
+
+Presentations on pre-determined topics, for instance, "ageing and migration", "digital health technology", and "ethics, legal, and data-related" created a common knowledge base for the workgroup. This knowledge base was leveraged in a guided brainstorm discussion on four pre-determined questions:
+
++ What are relevant theories, methodologies and practical issues to study? 
++ What are possibilities and obstacles to complementing self-reports with more objective data sources such as digital data and biomarkers?
++ What are appropriate sampling and recruitment strategies?
++ What ethical, legal and data-management issues need to be considered?
+
+:::{layout-ncol=2} 
+![Guided brainstorm](img/brainstorm_psoamlux.jpeg){.lightbox width=75%}
+
+![Generated input will inform a suite of papers and further discussion](img/input_psoamlux.jpeg){.lightbox width=75%}
+:::
+
+The event discussions have generated a rich knowledge base that the workgroup plans to use to further research, attract funding, and continute the discussion with different stake holder.
+
+Further updates will follow soon.
 
