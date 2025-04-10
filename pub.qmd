@@ -21,6 +21,10 @@ output:
 :::{.panel-tabset}
 ### Peer-reviewed
 
+## 2025
+
+1. Buenconsejo, J. U., Ferrer-Wreder, L., Dimitrova, R., Pavlova, I., Bosnar, K., Bartoluci, S.,...**Stanciu, A.,**... Altansukh, S. (2025). Global profiles of positive youth development: A person-oriented analysis among emerging adults living in 21 countries. Journal of Youth and Adolescence, (online first). <https://doi.org/10.1007/s10964-025-02174-z>
+
 ## 2024
 
 1. Stanciu, A. (2024). Values in psychological network systems compared across groups. _under review at PLoS One_ (read [preprint here](https://osf.io/vewf9))
@@ -60,20 +64,20 @@ output:
 3. Ko, A., Pick, C.M., Kwon, J.Y., Barlev, M., Krems, J.A., Varnum, M.E.W…**Stanciu, A**...Kenrick, D.T. (2020). Family matters: Rethinking the Psychology of human social motivation. Perspectives on Psychological Science, 15, 173-201. [open access](https://doi.org/10.1177/1745691619872986)
 
 ## 2019
-1. Stanciu, A., Vauclair, C.-M. & Rodda, N. (2019). Evidence for stereotype accommodation as an expression of immigrants socio-cognitive adaptation. International Journal of Intercultural Relations, 72, 76-86. [open access](pdf/stanciuetal2019.pdf)
+1. Stanciu, A., Vauclair, C.-M. & Rodda, N. (2019). Evidence for stereotype accommodation as an expression of immigrants socio-cognitive adaptation. International Journal of Intercultural Relations, 72, 76-86. [open access](https://orbilu.uni.lu/bitstream/10993/60029/1/stanciu%2c%20vauclair%2c%20rodda%2c%202019.pdf)
 
 ## 2018
 1. Stanciu, A. & Vauclair, C.-M. (2018). Stereotype accommodation: A socio-cognitive perspective on migrants’ cultural adaptation. Journal of Cross-Cultural Psychology, 49, 1027-1047. [open access](https://doi.org/10.1177%2F0022022118777300)
 
 ## 2017
-1. Stanciu, A. & Vos, M.W. (2017). Stereotype-based faultlines and out-group derogation in diverse teams: The moderating roles of task stereotypicality and need for cognition. The Journal of Social Psychology, 157, 352-365. [open access](https://doi.org/10.1080/00224545.2017.1371442) *Note* This is the corrected citation to [this older verion](pdf/StanciuVos2017.pdf).
+1. Stanciu, A. & Vos, M.W. (2017). Stereotype-based faultlines and out-group derogation in diverse teams: The moderating roles of task stereotypicality and need for cognition. The Journal of Social Psychology, 157, 352-365. [open access](https://orbilu.uni.lu/bitstream/10993/60034/1/StanciuVos2017.pdf)
 
-2. Stanciu, A., Cohrs, C.J., Hanke, K. & Gavreliuc, A. (2017). Within-culture variation in the content of stereotypes: Application and development of the stereotype content model in an Eastern European culture. The Journal of Social Psychology, 157, 611-628. [open access](pdf/Stanciuetal2017.pdf)
+2. Stanciu, A., Cohrs, C.J., Hanke, K. & Gavreliuc, A. (2017). Within-culture variation in the content of stereotypes: Application and development of the stereotype content model in an Eastern European culture. The Journal of Social Psychology, 157, 611-628. [open access](https://www.researchgate.net/publication/310629029_Within-Culture_Variation_in_the_Content_of_Stereotypes_Application_and_Development_of_the_Stereotype_Content_Model_in_an_Eastern_European_Culture)
 
 ## 2016
 1. Stanciu, A. (2015a). The underlying structure of diverse work groups: A literature review on faultlines and diversity outcomes. Romanian Journal of Applied Psychology, 17, 63-71. [open access](http://www.rjap.psihologietm.ro/Download/rjap172_4.pdf)
 
-2. Stanciu, A. (2015b). Four sub-dimensions of stereotype content: Explanatory evidence from Romania. International Psychology Bulletin, 19, 14-20. [open access](pdf/stanciu2015b.pdf)
+2. Stanciu, A. (2015b). Four sub-dimensions of stereotype content: Explanatory evidence from Romania. International Psychology Bulletin, 19, 14-20. [open access](https://www.researchgate.net/publication/306292310_Four_Sub-Dimensions_of_Stereotype_Content_Explanatory_Evidence_from_Romania)
 
 ### Pre-prints & working papers
 
