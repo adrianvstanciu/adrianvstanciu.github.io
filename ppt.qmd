@@ -17,6 +17,11 @@ output:
   gtag('config', 'G-VLRYTQT397');
 </script>
 
+## 2025
+
+1. Stanciu, A., Teixeira Santos, A. C., & Paccoud, I. (2025) Addressing the unique healthcare needs and life experience of older migrant populations. Presentation at the 19th European Congress of Psychology. Paphos, Cyprus.
+
+2. Stanciu, A., Teixeira Santos, A. C., & Paccoud, I. (2025). Data scarcity and health implications in ageing migrants. Presentation at the Mid-term conference of the European Sociological Association, Research Network 16 (Sociology of Health & Medicine). Évora, Portugal.
 
 ## 2024
 

@@ -23,6 +23,7 @@ website:
         menu: 
           - res.qmd
           - phd.qmd
+          - gold.qmd
       - href: outreach.qmd
         text: Outreach
       - href: pub.qmd
