@@ -39,6 +39,8 @@ Ageing, culture, and digital technology. Particular focus on ageing migrants.
 
 ## Bio
 
+Since July 2025, Head of institute Lifespan Development, Family and Culture. University of Luxembourg.
+
 Member in the ALLBUS team ([German General Social Survey](https://www.gesis.org/en/allbus)) at GESIS - Leibniz Institute for the Social Sciences in Mannheim, Germany. Here, I acquired invaluable expertise into managing large scale surveys in addition to developing an interest in programming for the social sciences using _R_. My direct supervisor was [Oshrat Hochman, PhD](https://www.gesis.org/en/institute/about-us/staff/person/Oshrat.Hochman). 
 
 At the University of Vechta in Germany, I developed my research agenda on migration and ageing. [Prof. Dr. Maria Pavlova](https://www.uni-vechta.de/gerontologie/personen/prof-dr-maria-pavlova) was my direct employer. 
