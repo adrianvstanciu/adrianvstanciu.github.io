@@ -23,7 +23,9 @@ output:
 
 ## 2025
 
-1. Buenconsejo, J. U., Ferrer-Wreder, L., Dimitrova, R., Pavlova, I., Bosnar, K., Bartoluci, S.,...**Stanciu, A.,**... Altansukh, S. (2025). Global profiles of positive youth development: A person-oriented analysis among emerging adults living in 21 countries. Journal of Youth and Adolescence, (online first). <https://doi.org/10.1007/s10964-025-02174-z>
+1. Smallenbroek, O., Leijen, I., **Stanciu, A.**, van Herk, H., & Bardi, A. (in press). Constructing Schwartz values using Rokeach Values Survey: Human value measurement in the Longitudinal Internet Survey for Social Sciences (LISS). PLOS ONE. 
+
+2. Buenconsejo, J. U., Ferrer-Wreder, L., Dimitrova, R., Pavlova, I., Bosnar, K., Bartoluci, S.,...**Stanciu, A.,**... Altansukh, S. (2025). Global profiles of positive youth development: A person-oriented analysis among emerging adults living in 21 countries. Journal of Youth and Adolescence, (online first). <https://doi.org/10.1007/s10964-025-02174-z>
 
 ## 2024
 
