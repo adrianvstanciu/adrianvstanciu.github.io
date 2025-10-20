@@ -13,28 +13,13 @@ title: "News"
 </script>
 
 
-[Conference participation, and some observations]{style="font-size: 1.5em; color: #8b0000"} 
+[Incoming visits to University of Luxembourg]{style="font-size: 1.5em; color: #8b0000"} 
 
-### Evora
+![PROMISE project](img/fokkema.png){.lightbox width=55%}
 
-In June, I attended the Mid-term conference of the European Sociological Association, Network 16 (Sociology of health and medicine) that took place in the beautiful city of Évora, Portugal. I co-organized the symposium "Aging in motion: Addressing challenges and opportunities for migrant older adults" (Chair Dr. A.C. Teixeira Santos). 
+October, 2025 -- Prof. Dr. C. M. [(Tineke) Fokkema](https://www.eur.nl/en/news/tineke-fokkema-endowed-professor-ageing-families-and-migration) will visit the institute of Lifespan Development, Family and Culture and, among other, hold a public lecture on researching loneliness in older migrants. 
 
-My presentation addressed the data scarcity and implications for health in ageing migrants. 
+![Online interventions](img/vandaele.png){.lightbox width=55%}
 
-![Evora conference](img/evora.jpg){.lightbox width=55%}
+November, 2025 -- Dr. [Tom van Daele](https://epsychology.be/en/) will visit our institute and give both a public lecture and a workshop focusing on best practices when developing and implementing online interventions. 
 
-Interesting discussions on the future role of digital technology in providing healthcare in vulnerable populations took place at the conference. One discussion stood out to me in particular: A philosophical perspective on how hospitals and the healthcare sector creates health disparities but also is a mirror to our societal health norms. 
-
-### Cyprus
-
-In July, I attended the 19th European Congress of Psychology that took place in sunny Paphos, Cyprus.
-
-My presentation highlighted ways to address the unique healthcare needs and life experience of older migrant populations. 
-
-I also offered a three-hour workshop of using R and RStudio to create web applications and websites. Those who attended the workshop appreciated the introductory level of the contents as well as the rich material. 
-
-![No picture of me from the conference, but I found this interesting poster in my hotel](img/ecp.jpeg){.lightbox width=55%}
-
-Also at this conference there were many rich and informative discussions involving digital health technology but not only. One particular round table stood out to me -- where an APA representative and the future EFPA president were present. 
-
-I learned during this round table that EFPA (European Federation of Psychologists' Association) has recently published 6 principles that should govern the societal engagement with advancing technology. Read the full information on the EFPA website: [https://www.efpa.eu/digitalisation](https://www.efpa.eu/digitalisation). 

@@ -34,6 +34,8 @@ website:
         menu: 
           - teach.qmd
           - workshp.qmd
+      - href: oldnew.qmd
+        text: Old news
       - href: about.qmd
         text: About
 
