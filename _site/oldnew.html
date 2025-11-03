@@ -197,7 +197,8 @@ cookieconsent.run({
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#june-october-2025" id="toc-june-october-2025" class="nav-link active" data-scroll-target="#june-october-2025">June-October 2025</a></li>
+  <li><a href="#november-2025" id="toc-november-2025" class="nav-link active" data-scroll-target="#november-2025">November 2025</a></li>
+  <li><a href="#june-october-2025" id="toc-june-october-2025" class="nav-link" data-scroll-target="#june-october-2025">June-October 2025</a></li>
   <li><a href="#evora" id="toc-evora" class="nav-link" data-scroll-target="#evora">Evora</a></li>
   <li><a href="#cyprus" id="toc-cyprus" class="nav-link" data-scroll-target="#cyprus">Cyprus</a></li>
   </ul>
@@ -234,6 +235,24 @@ cookieconsent.run({
 
   gtag('config', 'G-VLRYTQT397');
 </script>
+<section id="november-2025" class="level3">
+<h3 class="anchored" data-anchor-id="november-2025">November 2025</h3>
+<p><span style="font-size: 1.5em; color: #8b0000">Incoming visits to University of Luxembourg</span></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/fokkema.png" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="PROMISE project"><img src="img/fokkema.png" class="img-fluid figure-img" style="width:55.0%" alt="PROMISE project"></a></p>
+<figcaption>PROMISE project</figcaption>
+</figure>
+</div>
+<p>October, 2025 – Prof.&nbsp;Dr.&nbsp;C. M. <a href="https://www.eur.nl/en/news/tineke-fokkema-endowed-professor-ageing-families-and-migration">(Tineke) Fokkema</a> will visit the institute of Lifespan Development, Family and Culture and, among other, hold a public lecture on researching loneliness in older migrants.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/vandaele.png" class="lightbox" data-glightbox="description: .lightbox-desc-2" data-gallery="quarto-lightbox-gallery-2" title="Online interventions"><img src="img/vandaele.png" class="img-fluid figure-img" style="width:55.0%" alt="Online interventions"></a></p>
+<figcaption>Online interventions</figcaption>
+</figure>
+</div>
+<p>November, 2025 – Dr.&nbsp;<a href="https://epsychology.be/en/">Tom van Daele</a> will visit our institute and give both a public lecture and a workshop focusing on best practices when developing and implementing online interventions.</p>
+</section>
 <section id="june-october-2025" class="level3">
 <h3 class="anchored" data-anchor-id="june-october-2025">June-October 2025</h3>
 <p><span style="font-size: 1.5em; color: #8b0000">Conference participation, and some observations</span></p>
@@ -244,7 +263,7 @@ cookieconsent.run({
 <p>My presentation addressed the data scarcity and implications for health in ageing migrants.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/evora.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Evora conference"><img src="img/evora.jpg" class="img-fluid figure-img" style="width:55.0%" alt="Evora conference"></a></p>
+<p><a href="img/evora.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-3" data-gallery="quarto-lightbox-gallery-3" title="Evora conference"><img src="img/evora.jpg" class="img-fluid figure-img" style="width:55.0%" alt="Evora conference"></a></p>
 <figcaption>Evora conference</figcaption>
 </figure>
 </div>
@@ -257,7 +276,7 @@ cookieconsent.run({
 <p>I also offered a three-hour workshop of using R and RStudio to create web applications and websites. Those who attended the workshop appreciated the introductory level of the contents as well as the rich material.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/ecp.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-2" data-glightbox="description: .lightbox-desc-2" title="No picture of me from the conference, but I found this interesting poster in my hotel"><img src="img/ecp.jpeg" class="img-fluid figure-img" style="width:55.0%" alt="No picture of me from the conference, but I found this interesting poster in my hotel"></a></p>
+<p><a href="img/ecp.jpeg" class="lightbox" data-glightbox="description: .lightbox-desc-4" data-gallery="quarto-lightbox-gallery-4" title="No picture of me from the conference, but I found this interesting poster in my hotel"><img src="img/ecp.jpeg" class="img-fluid figure-img" style="width:55.0%" alt="No picture of me from the conference, but I found this interesting poster in my hotel"></a></p>
 <figcaption>No picture of me from the conference, but I found this interesting poster in my hotel</figcaption>
 </figure>
 </div>
@@ -266,8 +285,10 @@ cookieconsent.run({
 
 
 <div class="hidden" aria-hidden="true">
-<span class="glightbox-desc lightbox-desc-1">Evora conference</span>
-<span class="glightbox-desc lightbox-desc-2">No picture of me from the conference, but I found this interesting poster in my hotel</span>
+<span class="glightbox-desc lightbox-desc-1">PROMISE project</span>
+<span class="glightbox-desc lightbox-desc-2">Online interventions</span>
+<span class="glightbox-desc lightbox-desc-3">Evora conference</span>
+<span class="glightbox-desc lightbox-desc-4">No picture of me from the conference, but I found this interesting poster in my hotel</span>
 </div>
 </section>
 
@@ -353,7 +374,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/adrianstanciu\.eu");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -695,7 +716,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"loop":false,"openEffect":"zoom","closeEffect":"zoom","descPosition":"bottom","selector":".lightbox"});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","descPosition":"bottom","openEffect":"zoom","loop":false,"closeEffect":"zoom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;

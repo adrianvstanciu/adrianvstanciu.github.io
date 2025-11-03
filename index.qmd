@@ -12,14 +12,9 @@ title: "News"
   gtag('config', 'G-VLRYTQT397');
 </script>
 
+[Study protocol published]{style="font-size: 1.5em; color: #8b0000"} 
 
-[Incoming visits to University of Luxembourg]{style="font-size: 1.5em; color: #8b0000"} 
+Presents the protocol for a scoping review of the scientific literature. The aim is to map existent evidence on what determines adoption, use, and effectiveness of digital technology for healthy ageing in migrants. 
 
-![PROMISE project](img/fokkema.png){.lightbox width=55%}
-
-October, 2025 -- Prof. Dr. C. M. [(Tineke) Fokkema](https://www.eur.nl/en/news/tineke-fokkema-endowed-professor-ageing-families-and-migration) will visit the institute of Lifespan Development, Family and Culture and, among other, hold a public lecture on researching loneliness in older migrants. 
-
-![Online interventions](img/vandaele.png){.lightbox width=55%}
-
-November, 2025 -- Dr. [Tom van Daele](https://epsychology.be/en/) will visit our institute and give both a public lecture and a workshop focusing on best practices when developing and implementing online interventions. 
+[![](img/stanciuetal2025bmj.png){.lightbox width=50% fig-align="center"}](https://bmjopen.bmj.com/content/15/10/e096196)
 
