@@ -21,6 +21,10 @@ output:
 :::{.panel-tabset}
 ### Peer-reviewed
 
+## 2026
+
+1. Barbett, L., Syropoulos, S., Capozzoli, J., ..., **Stanciu, A.**,...The C19 Consortium. (2026). Nature connectedness and well-being: Evidence from a multi-national investigation across 75 countries. _Journal of Environmental Psychology, 110_, 102895. <https://doi.org/10.1016/j.jenvp.2025.102895>
+
 ## 2025
 
 1. Stanciu, A., Dominguez-Rodriguez, A., & Westerhof, G. J. (2025). Multidimensional determinants to adoption, use and effectiveness of digital technology for healthy ageing in migrant populations: A scoping review protocol. _BMJ Open, 15_(10): e096196. <https://doi.org/10.1136/bmjopen-2024-096196> [open access]

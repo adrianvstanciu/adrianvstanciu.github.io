@@ -1,7 +1,7 @@
 ---
 title: "About"
 subtitle: "Assistant Professor (tenure track) in Lifespan Developmental Psychology (adult development with a focus on technology and/ or digitalization) at University of Luxembourg."
-image: "img/stanciu_photo.jpg"
+image: "img/stanciu_feb26.png"
 about:
   id: hero-heading
   template: trestles
