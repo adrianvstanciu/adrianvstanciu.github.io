@@ -25,7 +25,7 @@ output:
 
 - EMPRA supervisor - a research focused-practical at the University of Luxembourg whereby a group of Ba-level students conducts their own projects mentored by a supervisor
 
-- Master theses on various topics including psychotherapy and culture
+- Bachelor and Master theses on various topics
 
 ## R
 
@@ -36,7 +36,14 @@ output:
 - *Period*: SoSe 2024 +
 - *Institution*: University of Luxembourg, Luxembourg
 
-(2) Introduction to R for quantitative social sciences
+(2) Introducing machine learning to social scientists
+
+- *Bio*: An introductory seminar covering data-related, ethical, ontological as well as the hands-on study of varying methods of machine learning applications in the social sciences.
+- *Type*: Series of workshops for doctoral students
+- *Period*: SoSe 2026 +
+- *Institution*: University of Luxembourg, Luxembourg
+
+(3) Introduction to R for quantitative social sciences
 
 - *Bio*: Coverse the basics needed to start using *R* for quantitative research
 - *Type*: Online-workshop part of the GESIS training program
@@ -77,13 +84,43 @@ output:
 - *Period*: WiSe 2024-25 +
 - *Institution*: University of Luxembourg, Luxembourg
 
-(2) Psychological network systems
+(2) Advanced research methods
+
+- *Bio*: Covers advanced methods of research
+- *Type*: Seminar in the Master of Psychological Intervention
+- *Period*: WiSe 2026-27 +
+- *Institution*: University of Luxembourg, Luxembourg
+
+(3) Psychological network systems
 
 - *Bio*: Introduces psychological network analysis and trains the required programming in R
 - *Type*: Seminar in Master of Psychological Assessment.
 - *Period*: WiSe 2024-25 +
 - *Institution*: University of Luxembourg, Luxembourg
 
+## Fundamentals 
+
+(1) Grundlagen wissenschaftlichen Arbeitens [*Fundamentals of scientific work*]
+
+- *Bio*: Provides the basics in scientific work
+- *Type*: Seminar in the Master of Gerontology
+- *Period*: WiSe 2025-26 +
+- *Institution*: University of Luxembourg, Luxembourg
+
+(2) Literaturrecherche und wissenschaftliches Schreiben [*Literature reviews and scientific writing*]
+
+- *Bio*: Introduces the basics in scientific writing connecting it with literature research basics
+- *Type*: Seminar in the Master of Gerontology
+- *Period*: WiSe 2025-26 +
+- *Institution*: University of Luxembourg, Luxembourg
+
+(3) Introduction to reading and understanding research articles in Psychology (and Social Sciences)
+
+- *Bio*: Provides an overview of the scientific jargon and tips on efficiently extracting the relevant content
+- *Type*: Seminar.
+- *Period*: WiSe 2019/20; SoSe 2018;2019.
+- *Institution*: University of Vechta, Vechta, DE.
+- *Syllabus*: [here](https://osf.io/e783s/).
 
 ## General topics
 
@@ -93,17 +130,6 @@ output:
 - *Type*: Course; Co-taught with Prof. Christopher J. Cohrs & Dr. Regina Arant (ne Kühl)
 - *Period*: WiSe 2017/18
 - *Institution*: Jacobs University Bremen, Bremen, Germany
-
-
-## Practical skills
-
-(1) Introduction to reading and understanding research articles in Psychology (and Social Sciences)
-
-- *Bio*: Provides an overview of the scientific jargon and tips on efficiently extracting the relevant content
-- *Type*: Seminar.
-- *Period*: WiSe 2019/20; SoSe 2018;2019.
-- *Institution*: University of Vechta, Vechta, DE.
-- *Syllabus*: [here](https://osf.io/e783s/).
 
 ___
 
