@@ -120,10 +120,14 @@ output:
 ## 2010 
 1. Stanciu, A. (2010). Uniforma vestimentară. Ipostază a conformării astăzi. [Dressing uniform. A modern instance of conformity]. Iași, Romania: Lumen. (in Romanian). [behind paywall](https://www.amazon.co.uk/d/cka/Uniforma-vestimentara-Ipostaza-conformarii-astazi-Adrian-Stanciu/9731661999)
 
-### Online / self-published
+### Other
+
+## 2026
+
+Blohm, M., Asimov, A., & **Stanciu, A.**(2026). Konzeption und Durchführung der 'Allgemeinen Bevölkerungsumfrage der Sozialwissenschaften' (ALLBUS) 2021 [_Design and implementation of the German General Social Survey ALLBUS 2021_]. [report] GESIS Papers, 1. <https://doi.org/10.21241/ssoar.108732>
 
 ## 2024
-1. Stanciu, A. (2024, June 3). R beyond data analysis. [https://adrian-stanciu.quarto.pub/r-beyond-data-analysis/](https://adrian-stanciu.quarto.pub/r-beyond-data-analysis/) 
+Stanciu, A. (2024, June 3). R beyond data analysis. [https://adrian-stanciu.quarto.pub/r-beyond-data-analysis/](https://adrian-stanciu.quarto.pub/r-beyond-data-analysis/) 
 :::
 
 ___

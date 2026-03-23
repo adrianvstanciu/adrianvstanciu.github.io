@@ -17,11 +17,17 @@ output:
   gtag('config', 'G-VLRYTQT397');
 </script>
 
+## 2026
+
+1. Stanciu, A. (2026). Age is both state and process. Presentation at the BRAINSTORM workshop A(I)geing at Work, University of Luxembourg, Luxembourg.
+
 ## 2025
 
-1. Stanciu, A., Teixeira Santos, A. C., & Paccoud, I. (2025) Addressing the unique healthcare needs and life experience of older migrant populations. Presentation at the 19th European Congress of Psychology. Paphos, Cyprus.
+1. Christofoletti, G. & **Stanciu, A.**(2025). Diverging paths? Trajectories of emotional and social loneliness among older migrants vs. natives in Germany. Presentation at LIVES thematic workshops, LIVES SWISS Centre of Expertise in Life Course Research, Lausanne, Switzerland. 
 
-2. Stanciu, A., Teixeira Santos, A. C., & Paccoud, I. (2025). Data scarcity and health implications in ageing migrants. Presentation at the Mid-term conference of the European Sociological Association, Research Network 16 (Sociology of Health & Medicine). Évora, Portugal.
+2. Stanciu, A., Teixeira Santos, A. C., & Paccoud, I. (2025) Addressing the unique healthcare needs and life experience of older migrant populations. Presentation at the 19th European Congress of Psychology. Paphos, Cyprus.
+
+3. Stanciu, A., Teixeira Santos, A. C., & Paccoud, I. (2025). Data scarcity and health implications in ageing migrants. Presentation at the Mid-term conference of the European Sociological Association, Research Network 16 (Sociology of Health & Medicine). Évora, Portugal.
 
 ## 2024
 
