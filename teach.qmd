@@ -19,7 +19,7 @@ output:
 
 ## Supervision
 
-- PhD candidate G. Christofoletti (on the topic of ")Social isolation, language and cognitive decline and ageing migrants)
+- PhD candidate G. Christofoletti (Social isolation, language and cognitive decline and ageing migrants)
 
 - PhD candidate R. Toebosch (Im-personal informatics: Uncovering design choices that help users redefine relationships with and through self-trackers)
 
@@ -29,7 +29,7 @@ output:
 
 ## R
 
-(1) Introduction to the R universe - Beyond data analysis
+(1) Introduction to automatization and online application development using R
 
 - *Bio*: You might know R from data analysis. But, R can do much more than that for you!
 - *Type*: Series of workshops for doctoral students
@@ -52,14 +52,21 @@ output:
 
 ## Ageing
 
-(1) Vielfalt der Altersbildern und deren Auswirkung [*Diversity of old age images and outcomes*]
+(1) Kommunikation und Gesprächsführung [*Communication and conversation skills*]
+
+- *Bio*: A critical perspective on communication with and for older people
+- *Type*: Seminar in the Master of Gerontology
+- *Period*: WiSe 2026-27 +
+- *Institution*: University of Luxembourg, Luxembourg
+
+(2) Vielfalt der Altersbildern und deren Auswirkung [*Diversity of old age images and outcomes*]
 
 - *Bio*: A brief intro into psychological theories of old age images as well as cross-cultural themes
 - *Type*: Online-course; Guest-contribution in eGeneral Studies: Diversity-Kompetenzen
 - *Period*: WiSe 2020/21
 - *Institution*: University of Bremen, Bremen, Germany
 
-(2) Heterogenität des Alterns aus psychologischer Perspektive [*Heterogeneity of ageing from a psychological perspective*]
+(3) Heterogenität des Alterns aus psychologischer Perspektive [*Heterogeneity of ageing from a psychological perspective*]
 
 - *Bio*:  A discussion on the diversity dimensions of ageing (eg, due to sexual orientation, gender, cultural background) Addresses central theories in developmental, social and cross-cultural psychology
 - *Type*: Seminar
@@ -67,7 +74,7 @@ output:
 - *Institution*: University of Vechta, Vechta, Germany
 - *Syllabus*: [here](https://osf.io/ac67f/).
 
-(3) Psychologische Forschung zu Altersbildern-Entstehung und Folgen [*Psychological research to old age images: Causes and outcomes*]
+(4) Psychologische Forschung zu Altersbildern-Entstehung und Folgen [*Psychological research to old age images: Causes and outcomes*]
 
 - *Bio*: Discusses social, developmental, and cultural factors that contribute to the emergence of old age stereotype Addresses the impact on well-being, health, and functionality
 - *Type*: Seminar
