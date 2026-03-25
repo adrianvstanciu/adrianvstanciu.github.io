@@ -85,7 +85,7 @@ output:
 
 2. Stanciu, A. (2015b). Four sub-dimensions of stereotype content: Explanatory evidence from Romania. International Psychology Bulletin, 19, 14-20. [open access](https://www.researchgate.net/publication/306292310_Four_Sub-Dimensions_of_Stereotype_Content_Explanatory_Evidence_from_Romania)
 
-### Pre-prints & working papers
+### Pre-prints
 
 ## 2024
 1. Stanciu, A. (2024, August 1). Values in psychological network systems compared across groups. <https://osf.io/vewf9>.
@@ -124,7 +124,7 @@ output:
 
 ## 2026
 
-Blohm, M., Asimov, A., & **Stanciu, A.**(2026). Konzeption und Durchführung der 'Allgemeinen Bevölkerungsumfrage der Sozialwissenschaften' (ALLBUS) 2021 [_Design and implementation of the German General Social Survey ALLBUS 2021_]. [report] GESIS Papers, 1. <https://doi.org/10.21241/ssoar.108732>
+Blohm, M., Asimov, A., & **Stanciu, A.** (2026). Konzeption und Durchführung der 'Allgemeinen Bevölkerungsumfrage der Sozialwissenschaften' (ALLBUS) 2021 [_Design and implementation of the German General Social Survey ALLBUS 2021_]. [working paper] GESIS Papers, 1. <https://doi.org/10.21241/ssoar.108732>
 
 ## 2024
 Stanciu, A. (2024, June 3). R beyond data analysis. [https://adrian-stanciu.quarto.pub/r-beyond-data-analysis/](https://adrian-stanciu.quarto.pub/r-beyond-data-analysis/) 
