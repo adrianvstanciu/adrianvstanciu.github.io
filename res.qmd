@@ -17,39 +17,33 @@ output:
   gtag('config', 'G-VLRYTQT397');
 </script>
 
-If I were to summarize in one sentence my current agenda, this would be it:
+[Ageing, culture, mental health, digital technology.]{style="color: #2a76dd; font-size: 1.5em"}
 
-> Adequate theory from adequate data informs adequate interventions, policy making, and digital technology that accommodate the healthcare needs and life experiences of older migrant populations
+I focus on identifying and developing inclusive strategies to create sustainable societies in the age of rapid technological growth while an increasing number of international migrants grow old and settle in foreign countries.
 
-## Ageing migrants
+## Growing old in a foreign country
 
-I work on integrating the ageing and migration literature for a longitudinal and comparative study of the life experience and healthcare needs of populations of ageing migrants. 
+The specific risk factors and health needs of people growing old in a foreign country are insufficiently addressed in research, policy making and technology development. This contributes with increased challenges leading to aggravated health inequalities in society. 
 
-Together with colleagues from the University of Twente (the Netherlands), I aim to uncover multidimensional determinants to adoption, use, and effectiveness of digital tools for healthy ageing in migrant populations. Registration and study protocol will soon be available online.
+With colleagues from different disciplines, including digital health and law, I work on a series of theoretical papers aiming to integrate strands of research on ageing, culture, mental health, and digital technology.
 
-Together with a dedicated interdisciplinary team at the University of Luxembourg and Luxembourg Health Institute, I set to establish a panel data infrastructure targeting ageing migrants in Luxembourg. We are now working on acquiring third-party funding for the project.
+First, we propose a long-term agenda for inclusive assessment, evaluation, and intervention tailored to the health needs in older migrants. This perspective paper integrates perspectives from across disciplines with expertise from the practical sector. 
 
-This line of work draws primarily on my background in acculturation and ageing research (e.g., open access [Stanciu, 2021](https://onlinelibrary.wiley.com/doi/10.1002/ijop.12800), open access [Stanciu, 2022](https://www.cambridge.org/core/journals/ageing-and-society/article/value-systems-as-motivational-forces-for-the-suppression-of-ageism-towards-older-people-amongst-young-adults-an-analysis-across-countries/9E95A4A55910315CFDE47D486F23E8CD#)) and my expertise in managing and conducting large scale surveys (in print book [Hochman, Stanciu, & Hadjar, 2024 (Eds.)](https://link.springer.com/book/9783658444617)).
+Second, we introduce in the literature a framework addressing specifics of cultural loneliness in migrants. This theoretical paper describes the processual and long-term development of loneliness in migrants across three stages: initial cultural shock, short term process of adjustment needed to function well, and longer term process of meaning making needed in psychological adaptation.
 
-## Values
+Third, we introduce in the literature a framework bridging the strands of literature on human development throughout the lifespan with cultural adaptation following international migration. This theoretical paper proposes seeing the migration event as a moment of continuity disruption in the life of people that can result in long-term adaptation or mal-adaptation depending on the available resources. 
 
-Of primary interest is the question whether values develop throughout the lifespan. Together with an international team, of which [Dr. Oscar Smallenbroek](https://0-scholar-google-com.brum.beds.ac.uk/citations?user=jTdQMi0AAAAJ&hl=en) has the central role, I use country representative longitudinal data to examine socio-economic determinants to value development in adulthood. 
+## Digital technology and inequalities
 
-Our work has been published (see Smallenbroek, **Stanciu**, Arant, & Boehnke, 2023; [open access](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289487) at PloS ONE) and is under-review at internationally renowned outlets.
+Digital technology can offer cost-effective solutions to varying individual and societal challenges including in administration, health, and at work. However, not everyone has access to technology or posses the skills to benefit fully from technology. Specific populations such as migrants and younger and older workers have face unique challenges compared to mainstream majority populations leading to new forms of inequalities.
 
-Subsequently, we are aiming to promote the longitudinal examination of value development through adequate theory-driven reinterpretation of secondary data (see [preprint](https://osf.io/preprints/osf/3pqhs): Smallenbroek, Leijen, **Stanciu**, van Herk, & Bardi, 2024)
+With colleagues from psychology, technology and science, health, and law, I work on several empirical papers aiming to understanding the limitations of technology in specific populations as well as explore ways to creating more inclusive tools that better serve diverse populations. 
 
-## Health
+First, we aim to map the existent scientific research on factors that determine adoption, use, and effectiveness of digital technologies to support healthy ageing in migrants. This review paper critically questions the state of our knowledge base in understanding and thus accommodating the specifics of technological solutions for migrants.
 
-I partnered with the ITLAS Group for E-mental health, lead by [Asst. Prof. Alejandro Domínguez-Rodríguez](https://people.utwente.nl/a.dominguezrodriguez), to examine socio-cultural determinants to mental health in Latin America. We analyse and report data collected through online intervention platforms that the ITLAS group develops (e.g., [DueloCovid](https://www.duelocovid.com/)).
+Second, we seek to understand longitudinally limitations of transferability of in-person social contact benefits to the digitalized environment. Contact supported by technology can reproduce communication but is ill equipped to reproduce specific forms of human contact, such as touch, that are extremely important for providing social support, for instance, calming the nervous system., 
 
-Further collaborations on topics of health are in development.
-
-## Other
-
-In addition to these current and main lines of work, I also research on adoption of cryptocurrency (see e.g. [Stanciu et al. 2023](https://osf.io/preprints/psyarxiv/hxutm)) and explore new methodological avenues (see e.g. [Witte, **Stanciu**, & Zenker, 2022](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.980261/full)).
-
-Moreover, a dear project to me is to promote the use of _R_ beyond data analysis in the community of researchers in Psychology and Social Sciences. I am working on a primer paper on using shiny-apps in enhancing resarch communication.
+Third, we propose more inclusive approaches to regulating digital technologies such as the AI in the work space. This policy brief and academic edited book highlights the need to take a more age-specific approach to regulations as each age has unique challenges, for instance, job precarity at younger ages and anxieties associated with skill update common at older age.
 
 ___
 
