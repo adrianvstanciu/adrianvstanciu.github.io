@@ -22,7 +22,6 @@ website:
       - text: Research
         menu: 
           - res.qmd
-          - phd.qmd
           - gold.qmd
       - href: outreach.qmd
         text: Outreach
@@ -30,10 +29,11 @@ website:
         text: Publications
       - href: ppt.qmd
         text: Presentations
-      - text: Teaching
+      - text: Teach & Sup
         menu: 
           - teach.qmd
           - workshp.qmd
+          - phd.qmd
       - href: oldnew.qmd
         text: Archive
       - href: about.qmd
