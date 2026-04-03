@@ -1,9 +1,9 @@
 ---
-title: "PhD candidates"
+title: "Supervision"
 output: 
   html_document:
     toc: true
-    toc_depth: 3
+    toc_depth: 2
     toc_float: true
 ---
 
@@ -19,11 +19,15 @@ output:
 
 ---
 
-### Gabriela Christofoletti
+::: {.center}
+# PhD
+:::
+
+#### Gabriela Christofoletti
 
 ::::{.columns}
 :::{.column width=40%}
-![PhD candidate Gabriela Christofoletti.](img/photo-eu.jpg){width=40%}
+![](img/photo-eu.jpg){width=50%}
 
 :::
 :::{.column width=60%}
@@ -42,13 +46,11 @@ Contact Gabriela for research related questions at: gabriela.christofoletti[at]u
 :::
 ::::
 
----
-
-### Romain Toebosch
+#### Romain Toebosch
 
 ::::{.columns}
 :::{.column width=40%}
-![PhD candidate Romain Toebosch.](img/romain.jpg){width=40%}
+![](img/romain.jpg){width=50%}
 
 :::
 :::{.column width=60%}
