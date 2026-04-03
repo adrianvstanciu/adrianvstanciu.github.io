@@ -35,7 +35,7 @@ website:
           - teach.qmd
           - workshp.qmd
       - href: oldnew.qmd
-        text: Old news
+        text: Archive
       - href: about.qmd
         text: About
 
