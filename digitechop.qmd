@@ -1,0 +1,60 @@
+---
+title: "DigiTechOP"
+subtitle: "Digital technologies for older people"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+---
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VLRYTQT397"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VLRYTQT397');
+</script>
+
+___
+
+DigiTechOP is an online series of expert talks to inform and educate the general public about current scientific debates. The focus is on digital health while digital technology is discussed as a driver for sustainable societal change impacting the life experience, health, and healthcare needs of older individuals.
+
+[_Videos will be shortly linked. Final post-processing on the way._]{style="color: #2a76dd; font-size: 1.5em"}
+
+
+## Mission
+
+Digital technologies such as smartwatches, wristbands, and smartphones are used in healthcare. These devices facilitate uninterrupted collection and storage of digital personal data that are processed in automatized algorithms. Diseases are diagnosed faster helping healthcare professionals in providing timely and effective prevention and treatment. However, the use of digital technologies in healthcare can backfire if diverse risk factors, healthcare needs, and limitations are not accommodated.
+
+A sustainable digitalized society where healthcare is personalized involves not only Internet coverage and affordable hardware but also adequate digital skills in people.
+
+The modern society is digitally divided. Younger generations habitually use digital technologies and have structural support in becoming digitally literate, for instance, in schools or through targeted policies. Meanwhile, older generations must update themselves, for example, learn new skills while accepting digital health as the standard.
+
+The increasingly digitalized society puts many older people at a high risk of developing anxieties and an overall poor wellbeing. Most older people today do not fully benefit from advancements in healthcare due to unequal access to technology and limited digital literacy.
+
+## Evidence-based content
+
+Experts from multiple disciplines are involved, for instance, from the social sciences, health sciences, ethics and law, and science and technology. Our goal is evidence-based content that is easily accessible for everyone.
+
+Six themes will be covered:
+
+1.	**Implementation.** This section addresses practical examples and policies targeting the use and adoption of digital health technologies/ digital technologies for and by older people.
+
+2.	**Acceptance.** This section discusses psychological mechanisms and factors influencing the decision to accept, use, and adopt digital technologies for and by older people.
+
+3.	**Socio-cultural determinants.** This section addresses societal and cultural factors that impact the acceptance, use, and adoption of digital health technologies/ digital technologies for and by older people.
+
+4.	**Healthy ageing.** This section discusses the specifics of digital health technologies/ digital technologies aiming to improve the healthy ageing of older people.
+
+5.	**Security and privacy.** This section discusses ethical and legal aspects associated with the use, adoption, and implementation of digital technologies by and for older people.
+
+6.	**User design and determinism.** This section addresses potential biases and the co-creating of age and ageing arising at the stage of (co-)creating digital health technologies/ digital technologies for older people.
+
+
+<a href="#top"> Go to top </a>
+
+___
+

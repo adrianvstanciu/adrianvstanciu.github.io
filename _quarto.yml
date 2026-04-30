@@ -23,8 +23,9 @@ website:
         menu: 
           - res.qmd
           - gold.qmd
-      - href: outreach.qmd
-        text: Outreach
+      - text: Outreach
+        menu:
+          - digitechop.qmd
       - href: pub.qmd
         text: Publications
       - href: ppt.qmd
