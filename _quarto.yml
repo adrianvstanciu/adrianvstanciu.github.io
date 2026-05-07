@@ -34,7 +34,7 @@ website:
         menu: 
           - teach.qmd
           - workshp.qmd
-          - phd.qmd
+          - sup.qmd
       - href: oldnew.qmd
         text: Archive
       - href: about.qmd
