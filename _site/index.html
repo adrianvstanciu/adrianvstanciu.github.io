@@ -46,6 +46,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-158031087360bce0ff56dc785ce39e06.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -174,7 +177,7 @@ cookieconsent.run({
  <span class="dropdown-text">Workshops</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./phd.html">
+    <a class="dropdown-item" href="./sup.html">
  <span class="dropdown-text">Supervision</span></a>
   </li>  
     </ul>
@@ -234,15 +237,16 @@ cookieconsent.run({
 
   gtag('config', 'G-VLRYTQT397');
 </script>
-<p><span style="font-size: 1.5em; color: #8b0000">BRAINSTORM workshop on the impact of AI on ageing at work</span></p>
+<p><span style="font-size: 1.5em; color: #8b0000">May 20, the International Academic Freedom Day</span></p>
+<p>On May 20 is celebrated the International Academic Freedom Day.</p>
+<p>Some of my colleagues and I have shared what academic freedom means to us, and we all highlight the essential role of science in, sometimes, and especially in challenging times, voicing opinions and perspectives that may not align with those of the majority.</p>
+<p>See the full post on the university website: <a href="https://www.uni.lu/en/news/why-is-academic-freedom-essential-for-researchers-and-professors/" class="uri">https://www.uni.lu/en/news/why-is-academic-freedom-essential-for-researchers-and-professors/</a></p>
+<p>Also availabe on LinkedIn: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7462881107441799168/" class="uri">https://www.linkedin.com/feed/update/urn:li:activity:7462881107441799168/</a></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://www.uni.lu/fdef-en/events/aigeing-at-work-the-impact-of-ai-on-ageing-at-work/"><img src="img/ageingatwork.png" class="lightbox img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></a></p>
+<p><a href="img/acadfreed.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="img/acadfreed.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></a></p>
 </figure>
 </div>
-<p><strong>Abstract</strong></p>
-<p>The increasing adoption of artificial intelligence (AI) at work is radically transforming the workplace dynamics, labour processes, and working conditions of workers at all career stages. Despite the vast body of scholarship exploring the quantitative and qualitative impact of such a transformation, little attention has been devoted to the role of age in shaping the workers’ experiences with AI tools. Anecdotal evidence demonstrates that two age groups, namely “young” and “aged” workers, are particularly exposed to AI risks, albeit in distinct ways and for different reasons. AI may exacerbate the existing systemic barriers that both groups have been facing before the advent of the latest technology wave, as well as it may generate new, AI-specific risks that still have to be uncovered and analysed through an innovative multi-disciplinary lens. Current regulatory frameworks fail to take account of these vulnerabilities specific to workers’ life stages.</p>
-<p>By gaining a multi-disciplinary understanding of the relationship between workers’ age and the AI adoption at work and mapping the risks related to “algorithmic ageism”, the A(I)geing@Work workshop will contribute to designing fair, adequate, and responsive policy measures. Innovative policy approaches are needed to mobilise AI potential to foster social inclusion for both young and older workers and to protect them from further marginalisation and precarisation. AI policies, trainings aimed at increasing AI literacy, and labour regulations (including collective bargaining agreements) need to accommodate the expectations and limitations that are common at these specific life stages. Therefore, designing the path(s) forward can only be achieved by bringing together perspectives from law, psychology, economics, ethics, sociology, and tech, as well as practical insights from stakeholders and policy makers.</p>
 
 
 
@@ -320,7 +324,7 @@ cookieconsent.run({
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/adrianstanciu\.eu");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -661,6 +665,38 @@ cookieconsent.run({
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
