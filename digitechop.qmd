@@ -1,6 +1,5 @@
 ---
 title: "DigiTechOP"
-subtitle: "Digital technologies for older people"
 output: 
   html_document:
     toc: true
@@ -20,10 +19,9 @@ output:
 
 ___
 
-DigiTechOP is an online series of expert talks to inform and educate the general public about current scientific debates. The focus is on digital health while digital technology is discussed as a driver for sustainable societal change impacting the life experience, health, and healthcare needs of older individuals.
+![](img/ULdigitechop.png){.lightbox fig-align="center"}
 
-[_Videos will be shortly linked. Final post-processing on the way._]{style="color: #2a76dd; font-size: 1.5em"}
-
+See the official webpage of this initiative: <https://www.uni.lu/fhse-en/research-projects/digitechop/>
 
 ## Mission
 
