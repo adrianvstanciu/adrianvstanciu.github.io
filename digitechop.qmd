@@ -19,9 +19,9 @@ output:
 
 ___
 
-![](img/ULdigitechop.png){.lightbox fig-align="center"}
+[![](img/ULdigitechop.png){.lightbox fig-align="center"}](https://www.youtube.com/watch?v=iDT4uHrE_lU)
 
-See the official webpage of this initiative: <https://www.uni.lu/fhse-en/research-projects/digitechop/>
+See the official webpage of this initiative via the following link (or click on the image above and you will be re-directed to YouTube): <https://www.uni.lu/fhse-en/research-projects/digitechop/>
 
 ## Mission
 
