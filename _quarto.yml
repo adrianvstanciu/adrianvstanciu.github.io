@@ -19,13 +19,12 @@ website:
     left:
       - href: index.qmd
         text: News
-      - text: Research
-        menu: 
-          - res.qmd
-          - gold.qmd
+      - href: res.qmd
+        text: Research
       - text: Outreach
         menu:
           - digitechop.qmd
+          - gold.qmd
       - href: pub.qmd
         text: Publications
       - href: ppt.qmd
