@@ -17,8 +17,22 @@ output:
   gtag('config', 'G-VLRYTQT397');
 </script>
 
-### May 2026
 
+### August 2026
+
+[May 20, the International Academic Freedom Day]{style="font-size: 1.5em; color: #8b0000"} 
+
+On May 20 is celebrated the International Academic Freedom Day. 
+
+Some of my colleagues and I have shared what academic freedom means to us, and we all highlight the essential role of science in, sometimes, and especially in challenging times, voicing opinions and perspectives that may not align with those of the majority.
+
+See the full post on the university website: <https://www.uni.lu/en/news/why-is-academic-freedom-essential-for-researchers-and-professors/>
+
+Also availabe on LinkedIn: <https://www.linkedin.com/feed/update/urn:li:activity:7462881107441799168/>
+
+![](img/acadfreed.png){.lightbox width=50% fig-align="center"}
+
+### May 2026
 
 [BRAINSTORM workshop on the impact of AI on ageing at work]{style="font-size: 1.5em; color: #8b0000"} 
 
