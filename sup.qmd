@@ -20,6 +20,34 @@ output:
 ---
 
 ::: {.center}
+# Post-doc
+:::
+
+#### Mirna Sumatic
+
+
+::::{.columns}
+:::{.column width=40%}
+![](img/mirna.png){width=60%}
+
+:::
+:::{.column width=60%}
+
+Mirna works on _Students’ Experiences in the Classroom: Student–teacher relationships, instructional quality, and dynamic processes._ 
+
+Read below an abstract of Mirna's research.
+
+Students spend a large part of their everyday lives with their teachers, but students do not necessarily experience the same classroom or the same teacher in the same way. Even for the same student, these experiences can change from one lesson to the next. My research is interested in understanding this variation: how students experience their relationships with teachers and perceive the quality of instruction they receive, and particularly why these processes may look different for different students.
+
+During my PhD, I studied student–teacher relationships from multiple perspectives, analysing data from primary and secondary school students. My current research zooms in further by looking at students’ experiences from lesson to lesson. For example, does feeling supported by a teacher in one lesson shape how competent students feel in the next, and likewise, could feeling more competent change how students experience their teacher’s support? More broadly, I’m interested in using experience-sampling data and quantitative methods to capture the dynamic nature of what happens in everyday classrooms.
+
+Keywords: Student–Teacher Relationships, Instructional Quality, Academic Self-Concept, Experience Sampling, Quantitative Methods
+
+Contact Mirna for research related questions at: mirna.sumatic[at]uni.lu
+:::
+::::
+
+::: {.center}
 # PhD
 :::
 
