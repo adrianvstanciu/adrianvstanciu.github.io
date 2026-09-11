@@ -12,16 +12,16 @@ title: "News"
   gtag('config', 'G-VLRYTQT397');
 </script>
 
-[Third-party funded project take-over]{style="font-size: 1.5em; color: #8b0000"} 
+[Interview in the media on phone scams, loneliness, and older people]{style="font-size: 1.5em; color: #8b0000"} 
 
-![](img/dynamiques.png){.lightbox fig-align=center}
+![](img/cleverdial.png){.lightbox fig-align=center}
 
-I took over PI responsibilities on project [DYNAMIQUES](https://www.uni.lu/fhse-en/research-projects/dynamiques-dynamics-in-students-momentary-perceptions-of-instructional-quality-in-everyday-school-life/) from [Christoph Niepel](https://uol.de/en/agpp/mitarbeiter/prof-dr-christoph-niepel) (now at University of Oldenburg, Germany). The project aims to understand students’ perceptions of instructional quality -- SPIQ -- and how they relate to learning and motivation. 
+In an interview with Linus Burkel from Mashup Communications, I talked about psychological explanations to why it is often the case that older people who have once been the victim of scams are likely to fall again into the traps set by scammers. 
 
-The project is funded by the Luxembourg National Research Fund ([FNR](https://www.fnr.lu/)).
+I drew on theories such as the Self-Determination Theory (read [here](https://www.simplypsychology.org/self-determination-theory.html) a non-scientific overview) and suggested that scammers have the skill to identity and fill in the gaps in peoples' needs for autonomy, competence and relatedness. 
 
-Over the past few months, the field work in schools in Germany and Luxembourg had been carried out by doctoral candidate Karen Krüger. At the end of July this important milestone has been finalized and the team will now focus on cleaning the data and perform analyses. 
+Vulnerability then is almost never a characteristic of the individual. Vulnerability emerges, I argued, in complex interactions of limited personal resources, un-accommodating social environments and non-inclusive societal structures. 
 
-The project addresses four objectives: understanding the multilevel structure of SPIQ, investigating within-person processes, exploring heterogeneity in within-person dynamics, and examining the generalizability of findings across schools in the studied contexts. The findings will help expand our understanding of how students’ experience of instruction affects their learning processes.
+Read the entire interview in German [here](https://www.simplypsychology.org/self-determination-theory.html).
 
-The project results will be presented to the public in an organized event tentatively planned for Spring 2027. Moreover, a digital resource as a follow-up to the research efforts is in development with the MEDIA Center at the University of Luxembourg.
+Our interview was further taken up by other media outlets. For instance, the german language version of the magazine Chip. See [here](https://www.chip.de/news/cyber-security/an-solche-luecken-koennen-betrugsversuche-andocken-psychologe-erklaert-wer-besonders-oft-opfer-von-telefon-scam-wird_1762ce6a-707a-4446-af23-11a3448f6d6d.html).

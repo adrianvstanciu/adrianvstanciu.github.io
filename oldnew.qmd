@@ -17,6 +17,21 @@ output:
   gtag('config', 'G-VLRYTQT397');
 </script>
 
+### September 2026
+
+[Third-party funded project take-over]{style="font-size: 1.5em; color: #8b0000"} 
+
+![](img/dynamiques.png){.lightbox fig-align=center}
+
+I took over PI responsibilities on project [DYNAMIQUES](https://www.uni.lu/fhse-en/research-projects/dynamiques-dynamics-in-students-momentary-perceptions-of-instructional-quality-in-everyday-school-life/) from [Christoph Niepel](https://uol.de/en/agpp/mitarbeiter/prof-dr-christoph-niepel) (now at University of Oldenburg, Germany). The project aims to understand students’ perceptions of instructional quality -- SPIQ -- and how they relate to learning and motivation. 
+
+The project is funded by the Luxembourg National Research Fund ([FNR](https://www.fnr.lu/)).
+
+Over the past few months, the field work in schools in Germany and Luxembourg had been carried out by doctoral candidate Karen Krüger. At the end of July this important milestone has been finalized and the team will now focus on cleaning the data and perform analyses. 
+
+The project addresses four objectives: understanding the multilevel structure of SPIQ, investigating within-person processes, exploring heterogeneity in within-person dynamics, and examining the generalizability of findings across schools in the studied contexts. The findings will help expand our understanding of how students’ experience of instruction affects their learning processes.
+
+The project results will be presented to the public in an organized event tentatively planned for Spring 2027. Moreover, a digital resource as a follow-up to the research efforts is in development with the MEDIA Center at the University of Luxembourg.
 
 ### August 2026
 
