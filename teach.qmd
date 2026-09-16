@@ -19,11 +19,15 @@ output:
 
 ## Supervision
 
-- PhD candidate G. Christofoletti (Social isolation, language and cognitive decline and ageing migrants)
+- Post-doc M. Sumatic (Students’ Experiences in the Classroom: Student–teacher relationships, instructional quality, and dynamic processes)
 
 - PhD candidate R. Toebosch (Im-personal informatics: Uncovering design choices that help users redefine relationships with and through self-trackers)
 
-- EMPRA supervisor - a research focused-practical at the University of Luxembourg whereby a group of Ba-level students conducts their own projects mentored by a supervisor
+- PhD candidate G. Christofoletti (Social isolation, language and cognitive decline and ageing migrants)
+
+- PhD candidate K. Krüger (Cognitive Activation. What it is, what it relates to and how it affects students in everyday life)
+
+- EMPRA supervisor (recurring) - a research focused-practical at the University of Luxembourg whereby a group of Ba-level students conducts their own projects mentored by a supervisor
 
 - Bachelor and Master theses on various topics
 
@@ -32,6 +36,7 @@ output:
 (1) Introduction to automatization and online application development using R
 
 - *Bio*: You might know R from data analysis. But, R can do much more than that for you!
+- *Education level*: PhD
 - *Type*: Series of workshops for doctoral students
 - *Period*: SoSe 2024 +
 - *Institution*: University of Luxembourg, Luxembourg
@@ -39,6 +44,7 @@ output:
 (2) Introducing machine learning to social scientists
 
 - *Bio*: An introductory seminar covering data-related, ethical, ontological as well as the hands-on study of varying methods of machine learning applications in the social sciences.
+- *Education level*: PhD
 - *Type*: Series of workshops for doctoral students
 - *Period*: SoSe 2026 +
 - *Institution*: University of Luxembourg, Luxembourg
@@ -55,6 +61,7 @@ output:
 (1) Kommunikation und Gesprächsführung [*Communication and conversation skills*]
 
 - *Bio*: A critical perspective on communication with and for older people
+- *Education level*: Master
 - *Type*: Seminar in the Master of Gerontology
 - *Period*: WiSe 2026-27 +
 - *Institution*: University of Luxembourg, Luxembourg
@@ -87,6 +94,7 @@ output:
 (1) Deskriptive und inferenzielle Statistik [*Descriptive and inferential statistics*]
 
 - *Bio*: Provides the basics in statistical lingua
+- *Education level*: Master
 - *Type*: Seminar in the Master of Gerontology
 - *Period*: WiSe 2024-25 +
 - *Institution*: University of Luxembourg, Luxembourg
@@ -94,6 +102,7 @@ output:
 (2) Advanced research methods
 
 - *Bio*: Covers advanced methods of research
+- *Education level*: Master
 - *Type*: Seminar in the Master of Psychological Intervention
 - *Period*: WiSe 2026-27 +
 - *Institution*: University of Luxembourg, Luxembourg
@@ -110,6 +119,7 @@ output:
 (1) Grundlagen wissenschaftlichen Arbeitens [*Fundamentals of scientific work*]
 
 - *Bio*: Provides the basics in scientific work
+- *Education level*: Master
 - *Type*: Seminar in the Master of Gerontology
 - *Period*: WiSe 2025-26 +
 - *Institution*: University of Luxembourg, Luxembourg
@@ -117,6 +127,7 @@ output:
 (2) Literaturrecherche und wissenschaftliches Schreiben [*Literature reviews and scientific writing*]
 
 - *Bio*: Introduces the basics in scientific writing connecting it with literature research basics
+- *Education level*: Master
 - *Type*: Seminar in the Master of Gerontology
 - *Period*: WiSe 2025-26 +
 - *Institution*: University of Luxembourg, Luxembourg
