@@ -17,11 +17,9 @@ output:
   gtag('config', 'G-VLRYTQT397');
 </script>
 
-## Supervision
+## Ongoing supervision
 
 - Post-doc M. Sumatic (Students’ Experiences in the Classroom: Student–teacher relationships, instructional quality, and dynamic processes)
-
-- PhD candidate R. Toebosch (Im-personal informatics: Uncovering design choices that help users redefine relationships with and through self-trackers)
 
 - PhD candidate G. Christofoletti (Social isolation, language and cognitive decline and ageing migrants)
 
