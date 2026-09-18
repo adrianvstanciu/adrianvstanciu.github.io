@@ -107,7 +107,7 @@ Contact Karen for research related questions at: karen.krueger[at]uni.lu
 :::
 :::{.column width=60%}
 
-[Congratulations Dr. Toebsch! Romain successfully defended his thesis on 17.09.2026.]{style="color: #8b0000"}
+[Congratulations Dr. Toebosch! Romain successfully defended his thesis on 17.09.2026.]{style="color: #8b0000"}
 
 Romain works on _(Im)personal Informatics: Uncovering design choices that help users redefine relationships with and through self-trackers._ 
 
