@@ -46,6 +46,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-158031087360bce0ff56dc785ce39e06.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -199,7 +202,7 @@ cookieconsent.run({
    
   <ul>
   <li><a href="#mission" id="toc-mission" class="nav-link active" data-scroll-target="#mission">Mission</a></li>
-  <li><a href="#evidence-based-content" id="toc-evidence-based-content" class="nav-link" data-scroll-target="#evidence-based-content">Evidence-based content</a></li>
+  <li><a href="#the-content" id="toc-the-content" class="nav-link" data-scroll-target="#the-content">The content</a></li>
   </ul>
 </nav>
     </div>
@@ -237,10 +240,15 @@ cookieconsent.run({
 <hr>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://www.youtube.com/watch?v=iDT4uHrE_lU"><img src="img/ULdigitechop.png" class="lightbox img-fluid quarto-figure quarto-figure-center figure-img"></a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/digitechoflyer.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Access the recordings here."><img src="img/digitechoflyer.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%" alt="Access the recordings here."></a></p>
 </figure>
 </div>
-<p>See the official webpage of this initiative via the following link (or click on the image above and you will be re-directed to YouTube): <a href="https://www.uni.lu/fhse-en/research-projects/digitechop/" class="uri">https://www.uni.lu/fhse-en/research-projects/digitechop/</a></p>
+<figcaption>Access the recordings <a href="https://www.uni.lu/fhse-en/research-projects/digitechop/">here</a>.</figcaption>
+</figure>
+</div>
+<p><span style="color: #8b0000; font-size: 1.15em"><em>Read the <a href="https://www.uni.lu/fhse-en/news/how-digitechop-is-rethinking-digital-inclusion-for-older-adults/">press release</a> for details on the mission and goal of this initiative</em>.</span></p>
 <section id="mission" class="level2">
 <h2 class="anchored" data-anchor-id="mission">Mission</h2>
 <p>Digital technologies such as smartwatches, wristbands, and smartphones are used in healthcare. These devices facilitate uninterrupted collection and storage of digital personal data that are processed in automatized algorithms. Diseases are diagnosed faster helping healthcare professionals in providing timely and effective prevention and treatment. However, the use of digital technologies in healthcare can backfire if diverse risk factors, healthcare needs, and limitations are not accommodated.</p>
@@ -248,8 +256,8 @@ cookieconsent.run({
 <p>The modern society is digitally divided. Younger generations habitually use digital technologies and have structural support in becoming digitally literate, for instance, in schools or through targeted policies. Meanwhile, older generations must update themselves, for example, learn new skills while accepting digital health as the standard.</p>
 <p>The increasingly digitalized society puts many older people at a high risk of developing anxieties and an overall poor wellbeing. Most older people today do not fully benefit from advancements in healthcare due to unequal access to technology and limited digital literacy.</p>
 </section>
-<section id="evidence-based-content" class="level2">
-<h2 class="anchored" data-anchor-id="evidence-based-content">Evidence-based content</h2>
+<section id="the-content" class="level2">
+<h2 class="anchored" data-anchor-id="the-content">The content</h2>
 <p>Experts from multiple disciplines are involved, for instance, from the social sciences, health sciences, ethics and law, and science and technology. Our goal is evidence-based content that is easily accessible for everyone.</p>
 <p>Six themes will be covered:</p>
 <ol type="1">
@@ -681,6 +689,38 @@ cookieconsent.run({
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
