@@ -19,9 +19,9 @@ output:
 
 ___
 
-[![](img/ULdigitechop.png){.lightbox fig-align="center"}](https://www.youtube.com/watch?v=iDT4uHrE_lU)
+![Access the recordings [here](https://www.uni.lu/fhse-en/research-projects/digitechop/).](img/digitechoflyer.png){.lightbox width=50% fig-align=center}
 
-See the official webpage of this initiative via the following link (or click on the image above and you will be re-directed to YouTube): <https://www.uni.lu/fhse-en/research-projects/digitechop/>
+[_Read the [press release](https://www.uni.lu/fhse-en/news/how-digitechop-is-rethinking-digital-inclusion-for-older-adults/) for details on the mission and goal of this initiative_.]{style="color: #8b0000; font-size: 1.15em"}
 
 ## Mission
 
@@ -33,7 +33,7 @@ The modern society is digitally divided. Younger generations habitually use digi
 
 The increasingly digitalized society puts many older people at a high risk of developing anxieties and an overall poor wellbeing. Most older people today do not fully benefit from advancements in healthcare due to unequal access to technology and limited digital literacy.
 
-## Evidence-based content
+## The content
 
 Experts from multiple disciplines are involved, for instance, from the social sciences, health sciences, ethics and law, and science and technology. Our goal is evidence-based content that is easily accessible for everyone.
 

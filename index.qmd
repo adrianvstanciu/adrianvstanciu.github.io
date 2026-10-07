@@ -12,16 +12,16 @@ title: "News"
   gtag('config', 'G-VLRYTQT397');
 </script>
 
-[Interview in the media on phone scams, loneliness, and older people]{style="font-size: 1.5em; color: #8b0000"} 
+[We're official online with the DigiTechOP]{style="font-size: 1.5em; color: #8b0000"} 
 
-![](img/cleverdial.png){.lightbox fig-align=center}
+![Access the recordings [here](https://www.uni.lu/fhse-en/research-projects/digitechop/).](img/digitechoflyer.png){.lightbox width=50% fig-align=center}
 
-In an interview with Linus Burkel from Mashup Communications, I talked about psychological explanations to why it is often the case that older people who have once been the victim of scams are likely to fall again into the traps set by scammers. 
+The official launch of the _DigiTechOP_ initiative is scheduled for October 19!
 
-I drew on theories such as the Self-Determination Theory (read [here](https://www.simplypsychology.org/self-determination-theory.html) a non-scientific overview) and suggested that scammers have the skill to identity and fill in the gaps in peoples' needs for autonomy, competence and relatedness. 
+This is a collection of professionally made videos to inform and educate the general public about current scientific debates. The focus is on digital health while digital technology is discussed as a driver for sustainable societal change impacting the life experience, health, and healthcare needs of older individuals. 
 
-Vulnerability then is almost never a characteristic of the individual. Vulnerability emerges, I argued, in complex interactions of limited personal resources, un-accommodating social environments and non-inclusive societal structures. 
+Luxembourg-local and international academics as well as professionals in the private, public, and healthcare sectors contribute on an invitation basis. All contributions are recorded and post-edited by the MEDIACentre at the University of Luxembourg. 
 
-Read the entire interview in German [here](https://www.simplypsychology.org/self-determination-theory.html).
+Recordings may be used as teaching material, as resources to support training activities, or simply seen as a collection of evidence-based videos that aim to answer many, if not all questions everyone might have about old age, older people, and digital technologies.
 
-Our interview was further taken up by other media outlets. For instance, the german language version of the magazine Chip. See [here](https://www.chip.de/news/cyber-security/an-solche-luecken-koennen-betrugsversuche-andocken-psychologe-erklaert-wer-besonders-oft-opfer-von-telefon-scam-wird_1762ce6a-707a-4446-af23-11a3448f6d6d.html).
+Read the [press release](https://www.uni.lu/fhse-en/news/how-digitechop-is-rethinking-digital-inclusion-for-older-adults/) for more details on the mission and goal of this initiative. 
