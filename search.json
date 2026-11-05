@@ -158,7 +158,7 @@
     "href": "teach.html#methods",
     "title": "Teaching",
     "section": "Methods",
-    "text": "Methods\n\nDeskriptive und inferenzielle Statistik [Descriptive and inferential statistics]\n\n\nBio: Provides the basics in statistical lingua\nEducation level: Master\nType: Seminar in the Master of Gerontology\nPeriod: WiSe 2024-25 +\nInstitution: University of Luxembourg, Luxembourg\n\n\nAdvanced research methods\n\n\nBio: Covers advanced methods of research\nEducation level: Master\nType: Seminar in the Master of Psychological Intervention\nPeriod: WiSe 2026-27 +\nInstitution: University of Luxembourg, Luxembourg\n\n\nPsychological network systems\n\n\nBio: Introduces psychological network analysis and trains the required programming in R\nType: Seminar in Master of Psychological Assessment.\nPeriod: WiSe 2024-25 +\nInstitution: University of Luxembourg, Luxembourg"
+    "text": "Methods\n\nDeskriptive und inferenzielle Statistik [Descriptive and inferential statistics]\n\n\nBio: Provides the basics in statistical lingua\nEducation level: Master\nType: Seminar in the Master of Gerontology\nPeriod: WiSe 2024-25 +\nInstitution: University of Luxembourg, Luxembourg\n\n\nAdvanced research methods\n\n\nBio: Covers advanced methods of research\nEducation level: Master\nType: Seminar in the Master of Psychological Intervention\nPeriod: WiSe 2026-27 +\nInstitution: University of Luxembourg, Luxembourg\n\n\nSystems theory and data-driven interventions\n\n\nBio: Introduces systems theory and uses data to create group-sensitive psychological interventions\nType: Seminar in Master of Psychological Intervention\nPeriod: SoSe 2027 +\n\nInstitution: University of Luxembourg, Luxembourg\n\n\nPsychological network systems\n\n\nBio: Introduces psychological network analysis and trains the required programming in R\nType: Seminar in Master of Psychological Intervention\nPeriod: WiSe 2024-25 - WiSe 2026-27\nInstitution: University of Luxembourg, Luxembourg"
   },
   {
     "objectID": "teach.html#fundamentals",
@@ -326,7 +326,7 @@
     "href": "sitedummy.html",
     "title": "Website for complete beginners",
     "section": "",
-    "text": "NOTE: As of 2026-10-07 this brief guide may be considered out-dated. I provided an ultra-brief guide for creating website, and much more, in this online self-published book R beyond data analysis."
+    "text": "NOTE: As of 2026-11-05 this brief guide may be considered out-dated. I provided an ultra-brief guide for creating website, and much more, in this online self-published book R beyond data analysis."
   },
   {
     "objectID": "sitedummy.html#why-this-guide",
