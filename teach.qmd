@@ -105,11 +105,18 @@ output:
 - *Period*: WiSe 2026-27 +
 - *Institution*: University of Luxembourg, Luxembourg
 
-(3) Psychological network systems
+(3) Systems theory and data-driven interventions
+
+- *Bio*: Introduces systems theory and uses data to create group-sensitive psychological interventions
+- *Type*: Seminar in Master of Psychological Intervention
+- *Period*: SoSe 2027 +  
+- *Institution*: University of Luxembourg, Luxembourg
+
+(4) Psychological network systems
 
 - *Bio*: Introduces psychological network analysis and trains the required programming in R
-- *Type*: Seminar in Master of Psychological Assessment.
-- *Period*: WiSe 2024-25 +
+- *Type*: Seminar in Master of Psychological Intervention
+- *Period*: WiSe 2024-25 - WiSe 2026-27
 - *Institution*: University of Luxembourg, Luxembourg
 
 ## Fundamentals 
