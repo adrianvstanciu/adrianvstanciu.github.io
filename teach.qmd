@@ -17,18 +17,6 @@ output:
   gtag('config', 'G-VLRYTQT397');
 </script>
 
-## Ongoing supervision
-
-- Post-doc M. Sumatic (Students’ Experiences in the Classroom: Student–teacher relationships, instructional quality, and dynamic processes)
-
-- PhD candidate G. Christofoletti (Social isolation, language and cognitive decline and ageing migrants)
-
-- PhD candidate K. Krüger (Cognitive Activation. What it is, what it relates to and how it affects students in everyday life)
-
-- EMPRA supervisor (recurring) - a research focused-practical at the University of Luxembourg whereby a group of Ba-level students conducts their own projects mentored by a supervisor
-
-- Bachelor and Master theses on various topics
-
 ## R
 
 (1) Introduction to automatization and online application development using R

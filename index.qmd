@@ -12,7 +12,7 @@ title: "News"
   gtag('config', 'G-VLRYTQT397');
 </script>
 
-[We're official online with the DigiTechOP]{style="font-size: 1.5em; color: #8b0000"} 
+[We're officially online with the DigiTechOP]{style="font-size: 1.5em; color: #8b0000"} 
 
 ![Access the recordings [here](https://www.uni.lu/fhse-en/research-projects/digitechop/).](img/digitechoflyer.png){.lightbox width=50% fig-align=center}
 
