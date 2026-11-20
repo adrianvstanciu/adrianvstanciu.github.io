@@ -32,7 +32,6 @@ website:
       - text: Teach & Sup
         menu: 
           - teach.qmd
-          - workshp.qmd
           - sup.qmd
       - href: oldnew.qmd
         text: Archive
